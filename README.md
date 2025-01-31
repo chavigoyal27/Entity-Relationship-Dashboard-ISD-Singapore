@@ -14,7 +14,7 @@ Table of Contents
 6. Usage
 7. Future Plans
 8. Contributing
-9. License
+9. Contributors List
 
 # Overview
 
@@ -129,7 +129,7 @@ git push origin feature-branch
 ```
 6. Open a pull request.
 
-# Contributors
+# Contributors List
 1. Singh Janhavee
 2. Risha Sunil Shetty
 3. Chavi Goyal
