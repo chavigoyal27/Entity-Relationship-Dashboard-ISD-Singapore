@@ -1,0 +1,2334 @@
+Entity1,Relationship,Entity2
+pristina airport,involves,vendor 1
+pristina airport,involves,vendor 2
+vendor 1,owned by,the same owner
+vendor 2,owned by,the same owner
+vendor 1,submitted,three tenders
+vendor 2,submitted,three tenders
+vendor 1,is a,51% shareholder of vendor 2
+vendor 1,is the,owner and director of vendor 1
+vendor 1,won,tender for sonic system
+vendor 2,won,tender for sonic system
+vendor 1,won,tender for flat display information system
+vendor 2,won,tender for flat display information system
+vendor 1,won,tender for cramer antenna
+vendor 2,won,tender for cramer antenna
+vendor 3,competed against,vendor 1
+vendor 3,competed against,vendor 2
+vendor 4,competed against,vendor 1
+vendor 4,competed against,vendor 2
+vendor 1,took part together in,vendor 2
+vendor 1,put at a disadvantage,other competitors
+vendor 2,put at a disadvantage,other competitors
+vendor 3,exist,vendor 4
+vendor 3,submitted bids for,three tenders
+vendor 4,submitted bids for,three tenders
+itf investigation,found no reference with regard to,vendor 4
+vendor 3,was found to be,supermarket
+supermarket,located in,prizren
+itf case no 28604,submitted to,international prosecutor
+international prosecutor,part of,unmik department of justice
+itf,contacted,international prosecutor
+this case,would be a breach of,economic law
+there is,no applicable law in,kosovo
+interoffice memorandum,providing update to,official 2
+doti official 3,providing update to,staff member 1
+staff member 1,at,office of official 2
+interoffice memorandum,dated,18-May-01
+offers,provided by,companies
+vendor,chosen for,works
+interoffice memorandum,incorrectly dated,document
+document,contains reference dates relating to,project events
+project events,post date,18-May-01
+interoffice memorandum,states,cargo apron invitation to tender
+cargo apron invitation to tender,based on,summary documents
+bid opening committee,overlapped with,evaluation committee
+evaluation report,dated,2-Aug-01
+evaluation report,signed by,three parties
+three parties,attended,bid opening session
+doti official 2,confirmed,was on bid opening committee
+doti official 2,confirmed,was a member of evaluation committee
+people who evaluated the offers,signed,evaluation report
+un regulations,segregate,two roles
+interoffice memorandum,dated,24-Sep-01
+contract for the cargo apron extension,not channeled through,office of the legal adviser
+divisional manager,stated,conflict of interest
+report,produced by,professional pavement engineer
+professional pavement engineer,works at,laboratory
+itf,notes,peap official
+peap official,indicated,unhappiness about vendor self-certifying its work
+airport engineer,should have questioned,vendor self-certifying its work
+itf,does not have,sufficient technical knowledge
+divisional manager,wrote letter to,staff member 3
+letter,dated,25-Aug-02
+letter,gives rise to,possibility that it was not up to specification
+investigation,relates to,tender
+tender,for,contract
+contract,for,extension of the cargo terminal apron
+extension of the cargo terminal apron,at,pristina airport
+contract,value,77431863
+tender documents,did not comply with,requirements of article 234
+article 234,of,unmik finance administrative instruction 19992
+unmik finance administrative instruction 19992,on,public procurement
+public procurement,using,kosovo consolidated budget funds
+tender documents,were based on,summary documents
+summary documents,did not include,clear instructions on drawings and plans
+note,from,project engineer
+project engineer,at,evaluation company
+evaluation company,to,peap official
+note,dated,31-Jan-01
+evaluation company,was commissioned to produce,preliminary design
+preliminary design,for,cargo terminal
+preliminary design,at,pristina airport
+design,provided for,construction of the cargo apron extension
+cargo apron extension evaluation report,dated,2-Aug-01
+the committee,notes,bidding documents
+bidding documents,did not include,clear instructions on drawing and plans
+the committee,recommended,negotiations with the lowest bidder
+the lowest bidder,is,the vendor
+the two documents,suggest,tender documents
+tender documents,did not comply with,article 233
+article 233,is part of,unmik finance administrative instruction 19992
+unmik finance administrative instruction 19992,is about,public procurement
+public procurement,uses,kosovo consolidated budget funds
+doti official 2,conceded,tender documents were technically deficient
+tender specifications,did not comply with,article 233
+Pristina Airport,was entrusted to,Civil Administration Pillar II of UNMIK
+Civil Administration Pillar II of UNMIK,included,Official 1
+Civil Administration Pillar II of UNMIK,included,Official 2
+Pillar II,supervised,Doti Official 1
+Doti Official 1,was part of,Department of Transport and Infrastructure
+Department of Transport and Infrastructure,was later known as,Transport Sector of UNMIK Directorate of Infrastructure Affairs
+Doti Official 1,left,UNMIK
+Doti Official 2,was recruited by,Doti
+Doti Official 2,was in charge of,Airport Operations
+Doti Official 2,reported to,Doti Official 1
+Doti Official 2,continued in this role until,30-Sep-01
+Engineering expertise,was provided by,Engineers seconded from Armed Forces of a United Nations Member State
+Engineers,included,Airport Engineer 1
+Engineers,included,Airport Engineer 2
+Engineers,included,Airport Engineer 3
+Consultant,was from,Consulting Company
+Responsibility for the administration of the airport,passed from,Pillar II
+Responsibility for the administration of the airport,passed to,Kosovo Trust Agency (KTA)
+Pillar IV,was under,Divisional Manager
+Divisional Manager,had under him,PEAP Official
+Divisional Manager,had under him,ATCS Official
+Pristina International Airport,was handed over to,Civilian Jurisdiction
+Civilian Jurisdiction,was under,ICAO Regulations
+investigation,conducted pursuant to,executive decision no 200316
+investigation task force,conducted,enquiry
+enquiry,into,allegations
+allegations,raised by,interviews
+interviews,with,persons indicated to be witnesses
+persons indicated to be witnesses,and,persons potentially implicated
+persons potentially implicated,in,allegations
+documents,obtained from,pristina airport administration
+documents,obtained from,pillar iv
+documents,analysed for relevance to,inquiry
+pristina international airport,constitutes,state owned enterprise
+pristina international airport,under,yugoslavian law
+assets of the airport,include,runways
+assets of the airport,include,terminal buildings
+assets of the airport,include,hanger
+assets of the airport,include,fuel storage facilities
+assets of the airport,include,equipment
+public enterprise airport pristina,maintained by,military units of the kosovo force
+military units of the kosovo force,pursuant to,united nations security council resolution 1244
+united nations security council resolution 1244,dated,10-Jun-99
+unmik regulation no 11999,dated,25-Jul-99
+unmik,mandated to administer,territory of kosovo
+unmik,includes,state owned and publicly owned assets
+state owned and publicly owned assets,includes,pristina international airport
+vendor,produced,test results
+vendor,confirmed,quality of its own work
+vendor,worked on,cargo apron
+interoffice memorandum,from,staff member 2
+interoffice memorandum,to,procurement official
+interoffice memorandum,signed by,doti official 1
+doti official 1,dated,18-Oct-01
+doti official 1,authorised,soil stabilisation work
+memorandum,adds that,work was inadvertently not included in the original contract
+doti official 2,told,itf
+doti official 2,had to organise,geographical survey
+geographical survey,allowed,cargo apron tender to progress
+tests,were done,tender could go ahead
+evaluation report,suggests that,information on the nature of the ground does not appear to have been included in the tender documents
+letter,from,vendor
+letter,to,unmik
+letter,to,peap
+letter,dated,27-Jun-01
+letter,not received at,unmik
+letter,not received at,peap
+letter,according to,manuscript note signed by airport engineer 1
+manuscript note,signed by,airport engineer 1
+letter,suggests that,vendor carried out its own soil tests
+doti official 2,explained,technical details of the cargo apron extension project
+technical details of the cargo apron extension project,were taken from,cargo terminal study
+cargo terminal study,produced by,evaluation company
+evaluation company,pasted into,tender document specifications
+company winning the tender,to demonstrate,specification
+doti official 2,who arrived shortly after,tender
+airport engineer 1,had been angry with,evaluation company
+doti official 2,to send out,excerpts of their study
+excerpts of their study,as,tender specifications
+airport engineer 1,had also expressed concern at,method used for preparing the tender documents
+tenders,did not contain,sufficient detail
+doti official 2,stated that,evaluation company
+evaluation company,had been asked to prepare,tender documents
+tender documents,would have cost,more money
+doti official 2,had therefore prepared,tender documents
+tender documents,sent to,procurement official
+procurement official,to review and help,procurement exercise
+assistance,was provided primarily by,cpe procurement officer
+assistance,was provided to a lesser extent by,procurement official
+procurement documents,and,rules
+doti official 2,expressed the view that,neither procurement official nor cpe procurement officer
+procurement official,would have had,technical expertise
+procurement officer,would have had,time to review technical specifications
+doti official 2,emphasised that,no engineering expert
+no engineering expert,to support,hisher work
+hisher work,made,very difficult
+doti official 2,is responsible for,shortcomings in the tender documents
+doti official 1,must bear responsibility with,cpe
+shortcomings in the tender documents,prejudiced,some companies
+some companies,submitted bids for,the tenders
+three persons,attended,the bid opening session
+three persons,were on,the tender evaluation committee
+contract for the cargo apron extension,was not channelled through,the office of the legal adviser
+vendor,produced,bearing capacity report for the cargo apron
+vendor,self certifying,its own work
+self certifying,presented,potential conflict of interest
+US National Security Agency,derived from,intelligence intercepts
+intelligence intercepts,of,officials
+officials,within,"Japanese Ministry of Economy, Trade and Industry"
+officials,within,Ministry of Foreign Affairs
+Japanese Prime Minister Shinzo Abe,to,Washington DC
+Shinzo Abe,for talks with,President George W. Bush
+Shinzo Abe's government,considering,not informing the United States
+plan to reduce carbon emissions,might be opposed by,Bush administration
+National Security Agency,was aware of,plan not to inform the United States
+National Security Agency,was aware of,government's change of mind
+change of mind,taken at,briefing at Prime Minister's official residence
+Japanese Prime Minister Shinzo Abe,visits,Washington
+"Japanese Ministry of Economy, Trade and Industry (METI)",wants,simple message regarding climate change
+METI,has pushed,three principles
+three principles,include,technical development
+three principles,include,energy conservation
+three principles,include,nuclear energy
+METI,wants,participation of all countries
+Ministry of Foreign Affairs (MFA),wants,Abe to mention Japan's goal
+Japan's goal,is,reducing carbon emissions by half by 2050
+Abe initiative,will be announced,in late May
+MFA,was considering,not informing the US
+MFA,did not expect,Washington to approve of such a goal
+US reaction,is based on,climate change issues
+Abe,will state,the goal at the bilateral summit
+Abe,will notify,the United States
+Japan,anticipates,no major harm to the Japanese-US relationship
+Tokyo,has,climate change officials
+Japanese climate change officials,plan to continue promoting,sectoral approach
+Japanese climate change officials,face criticism from,international energy agency
+International Energy Agency,warned,Japanese
+Fatih Birol,is,chief economist of the IEA
+Sectoral approach,is not yet understood by,Tokyo
+Masakazu Toyoda,is,"of the Japanese Ministry of Economy, Trade and Industry"
+Masakazu Toyoda,expressed frustration at,criticism
+Sectoral approach,is designed to get,China
+Sectoral approach,is designed to get,India
+Sectoral approach,is designed to get,US
+Sectoral approach,allows,developed countries
+Sectoral approach,will not result in,economic or industrial loss
+Japanese official,thinks that,Europeans may find it difficult to implement sectoral approach
+Electricity sector,is subject to,emissions trading scheme
+Toyoda,claimed that,businesses from several sectors are threatening to cease operations
+Businesses from several sectors,include,steel
+Businesses from several sectors,include,aluminum
+Businesses from several sectors,include,cement
+Businesses from several sectors,include,petroleum
+ETS,continues as is,businesses threatening to cease operations
+US National Security Agency (NSA),derived from,intelligence intercepts
+intelligence intercepts,of,officials within the Japanese government
+Japanese government,before,2008 G8 summit
+2008 G8 summit,held in,Lake Toya
+Lake Toya,in,Japan
+report,observes,widespread impetus within the Japanese government
+Japanese government,involving,multiple ministries
+Japanese leadership,at,G8 summit
+G8 summit,on,policy to combat climate change
+policy to combat climate change,focusing on,Japanese initiative
+Japanese initiative,towards,sectoral approach to reducing carbon emissions
+report,marked for sharing with,United States
+report,marked for sharing with,Five Eyes intelligence partners
+Five Eyes intelligence partners,include,Australia
+Five Eyes intelligence partners,include,Canada
+Five Eyes intelligence partners,include,Great Britain
+Five Eyes intelligence partners,include,New Zealand
+Japanese leadership,working to narrow down,climate change goals
+climate change goals,for,G8 summit
+Japanese officials,from,"Ministry of Economy, Trade and Industry"
+Japanese officials,from,Ministry of Foreign Affairs
+Japanese officials,from,Ministry of Finance
+Japanese officials,from,Ministry of Environment
+Japanese officials,briefed,Chief Cabinet Secretary Nobutaka Machimura
+Chief Cabinet Secretary Nobutaka Machimura,on,20-Feb
+Japanese officials,on,environmental goals
+environmental goals,they believe Japan should work toward achieving,G8 summit
+G8 summit,at,Lake Toya
+Lake Toya,in,Japan
+Japan,seeking to demonstrate,leadership in the environmental sector
+Japan,may announce,domestic emissions reduction goals
+domestic emissions reduction goals,prior to,the meeting
+Japanese,strive to avoid damage to,US relations
+"Japanese Ministry of Agriculture, Forestry and Fisheries (MAFF)",seeking ways to prevent damage to,US relations
+MAFF,was alarmed by,US Department of Agriculture
+Tokyo,ruling that imports could not commence until,end of this month
+MAFF inspector,expected to conclude,pilot program involving inspections in the US Pacific Northwest
+MAFF,considering to admit to,Washington
+US,be notified that,imports could begin as soon as onsite inspection is confirmed
+Japanese,fear that the issue will become,similarly politicized
+Japanese,concerned about,senior levels in Washington
+national security agency,produced,2009 report
+2009 report,derived from,intelligence intercepts
+intelligence intercepts,involved,officials
+officials,belong to,japanese ministry of agriculture forestry and fisheries
+national security agency,knew of,options under consideration
+options under consideration,related to,bilateral relations
+bilateral relations,concerned with,trade dispute
+trade dispute,involves,import of us cherries
+options being discussed,include,use of back channels
+use of back channels,to share,information with washington
+main japanese incentive,is,avoidance of politicization
+politicization,of,trade issue
+trade issue,in,washington
+Pristina Airport,was entrusted to,Civil Administration Pillar II of UNMIK
+Civil Administration Pillar II of UNMIK,supervised,Department of Transport and Infrastructure (Doti)
+Doti Official 1,was later known as,Transport Sector of UNMIK Directorate of Infrastructure Affairs
+Doti Official 1,left,UNMIK
+Doti Official 2,was recruited by,Doti
+Doti Official 2,was in charge of,Airport Operations
+Doti Official 2,reported to,Doti Official 1
+Doti Official 2,continued in this role until,30-Sep-01
+Engineering expertise,was provided by,Engineers seconded from Armed Forces of a United Nations Member State
+Airport Engineer 1,was part of,Engineering expertise
+Airport Engineer 2,was part of,Engineering expertise
+Airport Engineer 3,was part of,Engineering expertise
+Consultant,was from,Consulting Firm
+Responsibility for the administration of the airport,passed from,Pillar II
+Responsibility for the administration of the airport,passed to,Kosovo Trust Agency (KTA)
+Divisional Manager,was appointed at,Airport Sector KTA
+Divisional Manager,had under him,PEAP Official
+Divisional Manager,had under him,Air Traffic Control Services (ATCS) Official
+Pristina International Airport,was handed over to,Civilian Jurisdiction
+Civilian Jurisdiction,was under,ICAO Regulations
+investigation,conducted pursuant to,executive decision no 200316
+executive decision no 200316,established,investigation task force
+itf investigators,conducted,enquiry
+enquiry,into,allegations
+allegations,raised by,interviews
+interviews,with,persons indicated to be witnesses
+interviews,with,persons potentially implicated
+documents,obtained from,pristina airport administration
+documents,obtained from,pillar iv
+documents,analysed for relevance to,inquiry
+report,details,findings
+pristina international airport,constitutes,state owned enterprise
+pristina international airport,under,yugoslavian law
+assets of the airport,include,runways
+assets of the airport,include,terminal buildings
+assets of the airport,include,hanger
+assets of the airport,include,fuel storage facilities
+assets of the airport,include,equipment
+public enterprise airport pristina,maintained by,military units of the kosovo force
+military units of the kosovo force,pursuant to,united nations security council resolution 1244
+united nations security council resolution 1244,dated,10-Jun-99
+unmik regulation no 11999,dated,25-Jul-99
+unmik,mandated to administer,territory of kosovo
+unmik,includes,state owned and publicly owned assets
+state owned and publicly owned assets,includes,pristina international airport
+eu,engaged in,strategy sessions
+eu,aimed at,common handling policy
+eu,dealing with,potential us moves
+japan,engaged in,strategy sessions
+japan,aimed at,common handling policy
+japan,dealing with,potential us moves
+brussels,has conviction,great care must be taken
+tokyo,has conviction,great care must be taken
+japanese reporting,indicates,great care must be taken
+toshiakatsu matsuoka,pondered with,marianne fischerboel
+marianne fischerboel,pondered with,toshiakatsu matsuoka
+eu,proposed,17 billion mark
+us,supports at,17 billion mark
+eu,judged,17 billion mark
+brussels,put on table,market access
+brussels,put on table,last july
+fischerboel,indicated,14 to 15 billion
+fischerboel,indicated,eu concerns
+washington,may be headed for,showdown with developing countries
+fischerboel's deputy chef de cabinet,hinted to,japanese
+eu,may be willing to go lower than,8 percent
+eu,may be willing to go as low as,4 to 5 percent
+borchardt,tried to allay,japanese fears
+eu,might try again to enter into,bilateral underthetable deal
+eu,learned its lesson with respect to,backdoor actions
+cancun,happened in,2003
+Angela Merkel,attended,22 October meeting
+Nicolas Sarkozy,attended,22 October meeting
+Silvio Berlusconi,attended,22 October meeting
+Valentino Valentini,described,22 October meeting
+22 October meeting,was described as,tense and very harsh
+Angela Merkel,pressured,Silvio Berlusconi
+Nicolas Sarkozy,pressured,Silvio Berlusconi
+Silvio Berlusconi,must make decisions,financial institutions
+Herman Van Rompuy,urged,Italy
+Herman Van Rompuy,indicated,24th
+Italy,is weighed down with,enormous debt
+Italy,is struggling with,low productivity
+Italy,is showing,little dynamism
+Spain,is the model,Italy
+Israel,has reached out to,Europe
+Europe,includes,Italy
+Israel,has relations with,United States
+Italian diplomatic reporting,reported on,13-Mar
+Silvio Berlusconi,is,Italian Prime Minister
+Binyamin Netanyahu,is,Israeli Prime Minister
+Netanyahu,insisted that,trigger for the dispute
+Israel,decided to build,1600 homes in contested East Jerusalem
+Golda Meir,was,administration leader
+Netanyahu,blamed,government official
+Netanyahu,said,objective is to keep Palestinians from using issue
+Palestinians,could risk,sinking peace negotiations
+Berlusconi,promised to put,Italy at Israel's disposal
+Israeli officials,believed that,tiff goes far beyond construction plans
+Tiff,marks,lowest point in US-Israeli relations
+Japan,preparing for,G8 Summit
+Japan,role,Chairman of the G8 Summit
+Germany,believes that,crucial issue at the summit
+US,accept,going beyond Heiligendamm
+Heiligendamm,site of,last year's G8 Summit
+Emerging countries,accept,numerical targets
+Leaders from 16 countries,discuss,climate change
+Masaharu Kono,emphasized,Tokyo's position
+Bernd Pfaffenback,provided,Germany's take on the issues
+Germany,likely give up,25 to 45 percent midterm carbon dioxide reduction
+Emerging economies,willing to go beyond,Bali language
+Emerging economies,prefer,wait until next year's G8 Summit
+Pfaffenback,position,failure of emerging economies to accept long-term goal
+G8,lead to,clash at the summit
+Ban Ki-moon,participated in,exchange
+Ban Ki-moon,pointed out,world
+Ban Ki-moon,believes,EU
+EU,maintains,leadership role
+EU,combating,climate change
+EU summit,will impact on,UN conference on climate change
+UN conference on climate change,in,Poznan
+Poznan,related to,2009 Copenhagen talks
+Ban Ki-moon,maintained,new US administration
+new US administration,will have,engaging and proactive attitude
+EU,create,conditions necessary
+conditions necessary,for,meaningful deal
+Ban Ki-moon,considered,Poznan conference
+Poznan conference,to be,important
+Ban Ki-moon,praised,Angela Merkel
+Angela Merkel,encouraged,EU leaders
+Angela Merkel,was optimistic,EU summit
+EU summit,would come to,agreement
+Angela Merkel,acknowledged,tough issue
+tough issue,would involve,carbon dioxide trading
+Ban Ki-moon,and,Angela Merkel
+Ban Ki-moon,favored,minisummit
+minisummit,to involve,new US administration
+Angela Merkel,believed,climate change issue
+climate change issue,should be discussed at,heads of state level
+non staff member 1,provided statements to,itf investigators
+non staff member 1,was contacted by,official 1's daughter
+official 1's daughter,is,official 2's secretary
+non staff member 1,went to,restaurant 1
+restaurant 1,is located in,hajvali
+non staff member 1,was greeted by,security official
+security official,is,official 2's secretary
+security official,is,official 1
+non staff member 1,saw,another person
+another person,was seeking,employment route
+another person,paid,official 2's secretary
+non staff member 1,handed,500000
+non staff member 1,was requested to sign,three different coloured books
+three different coloured books,entitled,airport staff
+non staff member 1,was asked to leave by,official 2's secretary
+non staff member 1,would be contacted by,telephone
+telephone,is about,details of future employment
+details of future employment,at,pristina airport
+non staff member 1,provided statements to,itf investigators
+non staff member 1,was aware of,another case of kickbacks for pristina airport employment
+non staff member 1,is the owner of,a hamburgersandwich standrestaurant
+kps officer 2,requested information in relation to,non staff member 4
+non staff member 5,is the wife of,kps officer 2
+non staff member 5,met,non staff member 4
+non staff member 5,was purchasing,airport uniforms
+non staff member 4,had important contacts at,pristina airport
+non staff member 4,was asked by,non staff member 5
+non staff member 4,allegedly replied to,non staff member 5
+non staff member 1,provided statements to,itf investigators
+non staff member 1,alleges to have visited,official 1
+official 1,is at,pristina airport
+non staff member 1,asked how to obtain employment at,pristina airport
+official 1,replied that this was possible but only via,payment of a considerable amount of money
+non staff member 1,was aware that,non staff member 2
+non staff member 1,was aware that,non staff member 3
+non staff member 2,paid,700000
+non staff member 3,paid,700000
+non staff member 2,paid to,official 1
+non staff member 3,paid to,official 1
+non staff member 2,hoped to receive,employment at pristina airport
+non staff member 3,hoped to receive,employment at pristina airport
+non staff member 1,provided statements to,itf investigators
+non staff member 1,told,itf
+non staff member 1,was called by,official 2s secretary
+non staff member 1,gave,100000
+official 2s secretary,was present with,official 1
+official 1,was having dinner with,his daughter
+official 1,was having dinner at,the same mentioned restaurant
+non staff member 1,paid for,that night's dinner
+non staff member 1,was called by,official 2s secretary
+non staff member 1,was requested to pay,225
+non staff member 1,was requested to pay,190
+non staff member 1,stated that,pristina airport staff were present
+pristina airport staff,included,security official a
+pristina airport staff,included,secretary official 2
+pristina airport staff,included,xray official
+pristina airport staff,included,official 1
+pristina airport staff,included,official 2s secretary
+pristina airport staff,included,official 3
+pristina airport staff,included,official 4
+pristina airport staff,included,one person who only spoke english
+one person who only spoke english,may have been,official 5
+non staff member 1,was congratulated by,the others
+the others,were attempting to demonstrate to,non staff member 1
+the others,were in contact with,the competent person
+Kosovo Trust Agency,has,Internal Audit Unit
+Internal Audit Unit,created,Internal Memorandum
+Internal Memorandum,dated,4-Oct-04
+Internal Memorandum,described,audit of procurement of staff uniforms
+Pristina Airport,raised concerns,cancellation of competitive tender
+Pristina Airport,issued,single source contract for summer uniforms
+Vendor 1,competed for,tender
+Vendor 1,was awarded,single source contract
+Vendor 1 Manager,alleged,existence of rumors
+Vendor 1 Manager,identified intention to seek,legal action against Procurement Officer 1
+Procurement Officer 1,was allegedly bribed by,Vendor 2
+Vendor 1 Manager,made utterances to,Procurement Officer 1
+ITF,commenced,inquiry into allegations
+ITF,provides,summary of the case
+Procurement Officer 1,interpreted utterances as,threat
+Kosovo Trust Agency,has,Internal Audit Unit
+Internal Audit Unit,issued,Internal Memorandum
+Internal Memorandum,dated,4-Oct-04
+Internal Memorandum,described,audit of procurement of staff uniforms
+Pristina Airport,raised concerns,cancellation of competitive tender
+Pristina Airport,has reference no,PEAPCGUAS190504
+Pristina Airport,issued,single source contract
+Single Source Contract,for,summer uniforms
+Single Source Contract,for,new staff
+Internal Audit Unit,referenced,letter of complaint
+Letter of Complaint,dated,28-Jun-04
+Vendor 1,competed for,tender
+Vendor 1,was awarded,single source contract
+Vendor 1 Manager,alleged,existence of rumors
+Vendor 1 Manager,identified,intention to seek legal action
+Procurement Officer 1,was allegedly bribed by,Vendor 2
+Vendor 1 Manager,made utterances to,Procurement Officer 1
+Procurement Officer 1,interpreted utterances as,threat
+ITF,commenced,inquiry into allegations
+ITF,provides,summary of the case
+investigation task force,provided with,copy of a letter
+copy of a letter,dated,28-May-04
+cargo manager,sent,letter
+cargo manager,of,airline
+staff member,of,public enterprise airport pristina
+cargo manager,referred to,problems
+problems,relative to,invoice
+invoice,issued by,cargo department of pristina airport
+cargo department of pristina airport,for,handling of outgoing mail
+outgoing mail,of,member states kfor
+pristina airport staff,could not locate,record of invoice
+record of invoice,in,airports financial records
+commission of fraud,on the part of,staff in the cargo department
+staff in the cargo department,was,suspected
+Pristina Airport,is the cargo handling agent for,airline
+airline,is the member states,KFOR
+Pristina Airport,collects mail handling revenues on behalf of,airline
+Pristina Airport,deposits revenues to,airline's bank account
+airline,has issues identified in the letter by,airline cargo manager
+Pristina Airport,charged,high rate 0.50kg for handling outgoing mail
+invoice,had been incorrectly sent to,member states KFOR
+invoice,instead of their agent,airline
+value added tax (VAT),is not applicable to,international traffic
+idoios,requested,dra logistics officer 2
+dra logistics officer 2,reviewed,each individual bid
+dra logistics officer 2,explained,hisher annotations
+dra logistics officer 2,pointed out,vendor 4
+dra logistics officer 2,pointed out,vendor 5
+dra logistics officer 2,pointed out,vendor 6
+vendor 6,offered,gotive h41 ib model
+vendor 4,offered,gotive h41 model
+vendor 5,offered,gotive h41 model
+dra logistics officer 2,found out,gotive h41 ib model did not substantially differ from gotive h41 model
+dra logistics officer 2,stated,gotive h41 model complied with all requirements
+gotive h41 model,laid out in,technical specifications
+gotive h41 model,was protected against,environmental impact
+dra logistics officer 2,mentioned,pda model offered by vendor 1
+pda model offered by vendor 1,was not,rugged pda
+pda model offered by vendor 1,did not comply with,ip54 protection standards
+vendor 1,appeared to be,lowest bidder
+vendor 1,offered,largest number of pdas
+vendor 1,did not comply with,technical specifications
+members of the evaluation panel,did not shortlist,vendor 1
+dra logistics officer 2,stated,evaluation panel
+dra,advised,them
+them,to monitor,technical specifications
+them,to focus,section vii of the bidding documents
+section vii of the bidding documents,has,obligatory requirements
+obligatory requirements,to be fulfilled by,bidders
+dra logistics officer 2,highlighted,criteria of afterwarranty repair service
+criteria of afterwarranty repair service,located within,kosovo
+repair or replacement,within,five working days
+existing regulations,in,kosovo
+existing regulations,concerns,notification registration and recording of information
+notification registration and recording of information,concerning,movement of animals
+movement of animals,within,five days of the movement
+pda device,used for,communication of such data
+pda device,broke down,farmers and veterinarians
+farmers and veterinarians,would run the risk of,not complying with the law
+vendor 1,was not selected by,evaluation panel
+evaluation panel,recommended,vendor 4
+evaluation panel,examined,bid documents
+bid documents,were submitted by,six prequalified bidders
+evaluation panel,made comments and annotations on,table
+table,was provided by,dra logistics officer
+evaluation panel,relied heavily on,dra logistics officer 2
+dra logistics officer 2,was responsible for,evaluation of technical features
+dra logistics officer 2,told,idoios
+handwritten entries,were based on,discussions of the entire evaluation panel
+dra logistics officer 2,independently verified,product offered by each bidder
+product offered by each bidder,did possess,declared features
+technical data,was checked with,product datasheet and brochures
+complainant,raised,two main issues
+vendor 1,submitted,the lowest bid
+vendor 1,offered,the most number of devices
+vendor 1,offered,the ceiling price
+two other bidders,offered,the same product
+two other bidders,offered,a lower price
+two other bidders,had not been selected,the winning bidder
+preliminary report,identified,these issues
+idoios investigators,reviewed,all eight bids
+dra logistics officer 1,disqualified,vendor 2
+dra logistics officer 1,disqualified,vendor 3
+vendor 2,bid was,not substantially responsive
+vendor 3,bid was,not substantially responsive
+vendor 2,did not include,taxes
+vendor 2,exceeded,the ceiling of 135000
+vendor 3,did not include,its yearly maintenance surcharge fee
+vendor 3,caused,its bid to exceed the stated price ceiling
+ear consultant,prepared,technical specifications
+technical specifications,based on,proposal
+proposal,in,spuveseks inception report
+spuveseks inception report,of,Aug-02
+dra,launched,initial tender
+initial tender,for,pdas
+pdas,inclusive of,hardware and software
+bids submitted,exceeded,amount set aside
+amount set aside,for,purchase of the pdas
+tender,was cancelled,Feb-04
+tender,based on,advice from central procurement entity
+central procurement entity,cpe,second tender
+second tender,for,purchase of required pdas
+second tender,was launched,Apr-04
+dra,provided,bidders with price ceiling
+price ceiling,of,135000
+bidders,state,number of devices
+number of devices,in total,company could offer
+deadline,for,submission of bids
+dra,received,eight bids
+bids,were opened,certified by members of bid-opening panel
+members of bid-opening panel,consisting of,dra logistics officer 1
+members of bid-opening panel,consisting of,dra procurement officer
+members of bid-opening panel,consisting of,dra employee 1
+members of bid-opening panel,consisting of,dra finance officer
+complainant,told,idoios
+bid opening process,occurred,without incident
+bid opening process,in accordance with,correct procedural requirements
+investigation,confirms,evidence
+vendor 1,offered,pdas
+pdas,conform to,technical specifications
+complainant,offered,largest number of pdas
+pdas,were not appropriate for,designated use
+bid documents,set forth in,designated use
+idoios,determined,procurement exercise
+procurement exercise,was conducted in accordance with,un financial rules and regulations
+un financial rules and regulations,governing,procurement
+unmiks finance administrative instruction 21999,on,public procurements
+public procurements,using,kcb funds
+idoios,makes,recommendation
+unmik,take note of,idoios findings and conclusions
+unmik,advise,dra staff members
+dra staff members,includes,dra employee 2
+dra staff members,includes,dra logistics officer 1
+investigation,result of,idoios findings
+internal pillar ii review,highlighted,possible irregularities
+internal pillar ii review,conducted by,policy review and internal oversight unit prio
+policy review and internal oversight unit prio,provided,report
+report,was provided to,idoios
+idoios,investigated,entire tender process
+entire tender process,determined whether,violations of un rules
+directorate of rural affairs dra,is located within,unmik civil administration pillar ii
+directorate of rural affairs dra,was formed in,Oct-01
+directorate of rural affairs dra,comprises,veterinary services
+directorate of rural affairs dra,comprises,veterinary border control
+directorate of rural affairs dra,comprises,phytosanitary border control
+directorate of rural affairs dra,comprises,public forests
+directorate of rural affairs dra,remains,reserved area under security council resolution 1244
+staff,are,united nations staff members
+staff,subject to,un rules and regulations
+directorate of rural affairs dra,undertakes,own procurement for all divisions within the dra
+preliminary prio report,contains,price estimates
+price estimates,stated in,ear consultants inception report
+ear consultants inception report,showed,five different pda models
+five different pda models,have,integrated scanner capabilities
+prices of the pda models,ranged from,usd 32338
+prices of the pda models,ranged to,usd 81830
+idoios,adduced,initial estimates
+initial estimates,were of,regular pdas
+regular pdas,not,more rugged pdas
+more rugged pdas,specified in,technical specifications
+technical specifications,required for use by,veterinarians
+veterinarians,working in,inclement weather conditions
+idoios,found,estimates
+estimates,were obtained from,internet
+estimates,did not include,features
+features,that would make it,technically appropriate
+technical specifications,prepared by,ear consultant
+ear consultant,envisaged,more rugged durable product
+more rugged durable product,would be,water dust and drop resistant
+price per unit of rugged pdas,is higher than,initial estimate
+initial estimate,made in,inception report
+idoios,verified,this
+this,through,internet research
+itf,conducted,investigation
+prishtina airport management,failed to perform,duties
+duties,in accordance with,general principles
+assets,allocated to,atcs
+kta,allocated,assets
+atcs,was inadequately documented,use of assets
+performance of the atcs finance office,was,unsatisfactory
+poor performance,caused,financial damage
+financial damage,to,unmik pillar 4 kta
+work of the atcs finance office,was under,direct supervision
+atcs finance office,was under direct supervision of,atcs official
+oversight responsibility,was in the hands of,division manager
+division manager,failed to perform,duties
+duties,according to,expected standards
+atcs official,failed to promote,best interest of unmik pillar 4 kta
+unmik pillar 4 kta,as,employer
+itf,obtained,documentation
+documentation,shows,atcs management
+atcs management,failed to introduce,rules and regulations
+rules and regulations,guarantee,proper use of allocated funds
+documentation,provided,process
+cash withdrawals,used for,training opportunities
+employees,attended,courses
+courses,in,italy
+courses,in,canada
+courses,in,united kingdom
+cash advances,related to,atcs officials travel
+necessity,of,frequent travel
+atcs official,remains,questionable
+documentation,does not provide,proof
+atcs officials travel,was,business related
+atcs officials travel,was,justified
+atcs official,stated,2002
+atcs official,hired,finance officer 1
+atcs official,hired,finance officer 2
+finance officer 1,had,educational background
+finance officer 1,had,professional experience
+finance officer 2,had,educational background
+finance officer 2,had,professional experience
+atcs official,was sure,atcs money
+atcs money,was spent,requests
+atcs official,accepted,documentation
+documentation,was,poor
+documentation,was,unacceptable
+atcs official,agreed,staff
+staff,were,diligent
+staff,were,deficient
+atcs official,indicated,staff
+atcs official,trusted,staff
+staff,were,professional
+atcs official,realized,effort
+atcs official,should have devoted,supervision
+atcs official,indicated,superiors
+superiors,approved,bills
+bills,were in,petty cash binders
+petty cash binders,included,52500 present for international staff
+petty cash binders,included,41000 present for official 3
+petty cash binders,included,nokia 8850
+petty cash binders,included,91800 palm organizer for the atcs official
+petty cash binders,included,official 3
+petty cash binders,included,117600 recharging scratch cards
+petty cash binders,included,vala 900
+petty cash binders,included,202352
+petty cash binders,included,12588
+petty cash binders,included,96000 payment for mobile phone
+petty cash binders,included,94000 rent a car for head of department
+atcs official,stated,presents purchased from petty cash
+presents purchased from petty cash,were,approved
+atcs official,could not support,claim
+claim,with,documentation
+atcs official,added,bills not authorized
+bills not authorized,conditioned,further cash withdrawals
+further cash withdrawals,was conditioned by,proper documentation
+proper documentation,and,certification of previous spending
+atcs official,insisted,sums paid for refreshmentsfoodrestaurant bills
+sums paid for refreshmentsfoodrestaurant bills,were,authorized
+superiors,did not request,written justifications
+bill,was,sufficient proof of expenditure
+itf,interviewed,atcs official
+atcs official,acknowledged,cases 462002 492002 552002 592002
+cases 462002 492002 552002 592002,show,numerous irregularities
+atcs official,studied,those files
+those files,contained,sufficient information
+sufficient information,justified,allocation of money for planned travel of atcs staff
+documentation of expenses,was,very poor
+atcs official,acknowledged,cases 012002 052002 062002 072002 082002
+cases 012002 052002 062002 072002 082002,showed,numerous irregularities
+irregularities,included,missing bills
+missing bills,prove,payments
+missing signatures of atcs staff,prove,received perdiem
+missing flight ticket and boarding passes,prove,travel executed
+itf,concluded,funds likely paid to atcs employees
+funds,were paid to,atcs employees
+sufficient documentation,was not available to,itf investigators
+atcs official,was certifying,his/her own expenses
+atcs official,could not provide,acceptable explanations
+division manager,said,atcs official
+atcs official,would bring,request
+request,would detail,need for cash
+division manager,found,justification
+justification,in line with,needs of the airport
+division manager,would approve,it
+atcs official,would be responsible for,proper use of funds
+atcs official,would keep,financial records
+atcs official,had to sign for,bank check
+bank check,could be cashed at,bank
+atcs official,had,cash
+cash,in custody of,atcs official
+division manager,indicated,not possible to check every bill and invoice
+division manager,delegated,authority for financial management
+authority for financial management,to,atcs official
+itf,interviewed,official 1
+official 1,travelled with,atcs official
+official 1,travelled with,official 3
+official 1,travelled to,uk
+official 1,negotiated,conditions
+official 1,finetuned,training arrangements
+official 1,received,free accommodation
+official 1,received,all meals
+official 1,received,transport
+transport,from,shinfield park
+transport,to,london
+official 1,returned to,prishtina
+official 1,was not requested to return,perdiem
+atcs official,did not return,allocated funds
+official 3,did not return,allocated funds
+atcs bank account,has cash withdrawals,cash
+atcs bank account,has withdrawals,10000 increments
+atcs bank account,has total withdrawal amount,642000
+withdrawals,are for,air travel and related expenses
+atcs official,travels frequently,trips
+atcs official,is in charge of,department
+department,includes,atcs finance office
+finance officer 1,is employed as,atcs finance officer
+finance officer 2,is employed as,atcs finance officer
+finance officer 1,is supervised by,atcs official
+finance officer 2,is supervised by,atcs official
+division manager,was appointed,unmik pillar 4
+division manager,has responsibility for,pristina airport
+atcs official,was working at,atcs
+finance officer 1,was working at,atcs
+finance officer 2,was working at,atcs
+itf investigation,focused on,examination of travel arrangements
+itf investigation,focused on,examination of cash expenses
+atcs staff,related to,official travel
+atcs petty cash,handled during,investigation
+itf investigators,reviewed,existing procedures
+existing procedures,related to,cash withdrawals
+cash withdrawals,in,2002
+cash withdrawals,in,2003
+procedures,were followed by,management of atcs
+management of atcs,examined,atcs bank account
+atcs bank account,related to,related records
+itf investigators,examined,cash withdrawal requests
+cash withdrawal requests,supported by,documentation and receipts
+documentation and receipts,including,airline tickets
+documentation and receipts,including,hotel bills
+documentation and receipts,including,other receipts
+itf investigation,focused on,examination of travel arrangements
+itf investigation,focused on,cash expenses
+atcs staff,related to,official travel
+atcs petty cash,handled during,investigation
+itf investigators,reviewed,petty cash files
+itf investigators,crosschecked,staff details
+staff details,on record,employment roles
+employment roles,during,time period in question
+staff,authorized,cash withdrawals
+cash withdrawals,from,atcs bank account
+signatures,found on,examined documents
+signatures,against,staff files
+specific sums,against,airport excel cash spreadsheets
+excel spreadsheet system,has been in place since,mid2002
+excel spreadsheet system,used to maintain,cashbook
+itf investigators,interviewed,atcs staff
+itf investigators,interviewed,division manager
+itf investigators,interviewed,atcs officials
+itf investigators,interviewed,finance officers 1 and 2
+itf investigators,interviewed,official 1
+official 1,at,prishtina airport
+itf investigators,interviewed,official 2
+official 2,at,prishtina airport
+itf investigators,identified,problems
+itf investigators,interviewed,atcs staff
+atcs staff,involved in,approving cash withdrawals
+atcs staff,handled,cash
+atcs staff,handled,related documentation
+atcs staff,travelled on training to,italy
+atcs staff,travelled on training to,united kingdom
+finance officer 1,worked at,atcs finance office
+finance officer 1,described,procedures
+finance officer 1,identified,employee 1
+finance officer 1,identified,employee 2
+finance officer 1,identified,division manager
+employee 1,is a,class signatory
+employee 2,is a,class signatory
+division manager,is a,class signatory
+employee 3,is a,b class signatory
+employee 4,is a,b class signatory
+employee 5,is a,b class signatory
+atcs official,is a,b class signatory
+a class signatories,authorized to withdraw,cash
+a class signatories,withdraw from,atcs bank accounts
+kta,applies,unmik regulation no 200127
+unmik regulation no 200127,dated,8-Oct-01
+unmik regulation no 200127,covers,essential labour law in Kosovo
+essential labour law in Kosovo,includes,termination of a labour contract
+termination of a labour contract,states,serious misconduct
+serious misconduct,includes,unjustified refusal to perform obligations
+serious misconduct,includes,theft
+serious misconduct,includes,destruction
+serious misconduct,includes,damage
+serious misconduct,includes,unauthorized use of employers assets
+serious misconduct,includes,disclosure of business secrets
+serious misconduct,includes,consumption of drugs or alcohol at work
+serious misconduct,includes,behavior of serious nature
+unsatisfactory performance,includes,unjustified absence from work
+unsatisfactory performance,includes,repeated mistakes
+repeated mistakes,disrupts,normal course of the employment relationship
+finance officer 2,interviewed by,itf
+finance officer 2,working at,atcs finance office
+finance officer 2,employed by,atcs
+finance officer 2,provided information about,financial procedures and practices
+finance officer 2,found,atcs finance office
+atcs finance office,to be,disorganized
+finance officer 2,suggested improvements to,atcs official
+atcs official,told,finance officer 2
+finance officer 2,concerned about,losing job
+finance officer 2,decided to work as instructed by,atcs official
+ITF,interviewed,official 4
+official 4,was requested to review,several files
+several files,related to,business travel of ATCS staff
+ATCS staff,planned travel of,ATCS staff
+file 462002,suggests that,document might have been created after the fact
+request,submitted for approval on,25-May-02
+approval dates,written on,document
+documents attached to request 552002,were,printouts indicating flight reservations
+four files,contained,original flight tickets
+four files,contained,boarding passes
+four files,contained,original bills
+funds allocated to the travellers,were provided to,them by the ATCS official
+travellers,did not sign for,funds allocated
+official 4,requested to review,files dated after 01 july 2002
+official 4,concluded that,files revealed absence of required documentation
+files,identified in,paragraph 16
+official 4,asked to review,several files related to petty cash transactions
+official 4,concluded that,significant efforts were made by the atcs official
+atcs official,justified,cash withdrawals
+cash,appeared to have been provided,funds
+funds,were spent,very little effort to properly document
+itf investigators,interviewed,division manager
+division manager,explained,staff travel expenses
+staff travel expenses,were high because of,necessity to train nineteen air traffic controllers
+staff travel expenses,were high because of,necessity to train seven meteorological forecasters
+staff travel expenses,were high because of,necessity to train six aeronautical information service officers
+nineteen air traffic controllers,received,classroom and on-the-job training
+seven meteorological forecasters,received,classroom and on-the-job training
+six aeronautical information service officers,received,classroom and on-the-job training
+classroom and on-the-job training,was around,the world
+pristina airport,was responsible for,expenses incurred
+division manager,was aware that,atcs official
+atcs official,was the supervisor of,many of those who travelled
+atcs official,would frequently visit,staff
+staff,were undertaking,their respective courses
+finance officer 1,confirmed,division manager
+division manager,supervised,atcs official
+atcs official,supervised,atcs finance office
+finance officer 1,prepared,request for cash withdrawal
+request for cash withdrawal,signed by,atcs official
+request for cash withdrawal,assessed and approved by,division manager
+finance officer 1,reviewed,documentation related to the travel of atcs staff
+atcs,taken over by,unmik pillar 4 kta
+finance officer 1,established,requests for cash
+requests for cash,had,proper justification
+requests for cash,lacked,documentation
+finance officer 1,provided,satisfactory explanations
+atcs official,made,checks of the financial files
+finance assistant 1,claimed,footer
+idoios,asked,photocopies of the forged faxes
+photocopying assistant 1,was a relative of,finance department supervisor
+photocopying assistant 2,was the daughter of,finance assistant 2
+photocopying assistant 2,assisted,father
+oios,was informed that,two assistants helped in the preparation of the end of month financial returns
+two assistants,helped in,preparation of the end of month financial returns
+photocopying assistant 1,was working at,finance office
+undp bratislava,relies on,authorizing signatures on the faxes
+undp bratislava,maintains,signin sheet
+signin sheet,requires,signature and identity information
+undp bratislava,disperses,cheques
+cheques,upon proof of,identity
+payee,signs,original cash disbursement voucher
+finance office,does not retain,copy of the payees proof of identification
+undp bratislava,does not maintain,mail log
+procedures for reconciling accounts,were in place,unon and undp
+unon,did not attempt to reconcile,august 2002 undp bratislava account
+unep narobi,stated that,it has had several problems with fraudulent payments
+staff member,wrote email to,mr mzumara
+staff member,wrote email to,mr dickson mzumara
+mr dickson mzumara,is,officerincharge of the eca sub regional office
+mr dickson mzumara,is located in,lusaka zambia
+staff member,wrote to,ambassador negroponte
+staff member,had chat with,friends
+mr mzumara,was recipient of,email to ambassador negroponte
+staff member,responded via email to,mr mzumara
+mr mzumara,concurred with,staff member
+mr mzumara,pointed out to,staff member
+mr mzumara,expressed concern to,staff member
+staff member,stated in email,thanks
+case,was shelved by,lady who broadcasted the message
+lady who broadcasted the message,wrote to,white house
+lady who broadcasted the message,wrote to,vice presidents of the usa
+internal justice system,would have kept,everything within the system
+negroponte,is in,un secretariat
+negroponte,would do,damage control
+ladies,will continue writing to,human rights organizations
+hiwot abebe,sent an email to,president of the united states of america
+hiwot abebe,sent an email to,vicepresident of the united states of america
+hiwot abebe,sent an email to,senator john kerry
+hiwot abebe,sent an email to,senator dodd
+hiwot abebe,addressed email to,executive secretary of eca
+email,had an attachment,document titled crimes of rape and maladministration
+document titled crimes of rape and maladministration,was addressed to,executive secretary of eca
+executive secretary of eca,failed to take action against,staff members
+staff members,were alleged to have,sexually harassed and raped ten women staff members of eca
+hiwot abebe,was asking,american government
+american government,to intervene on behalf of,aggrieved women
+email,was copied to,staff member
+email,was copied to,other persons working in the organization
+senator john kerry,is a member of,united states senate
+senator dodd,is a member of,united states senate
+eca,is an organization of,senior officials
+senior officials,are part of,eca complex
+secretarygeneral,is part of,ethiopian foreign ministry
+ethiopian foreign ministry,is part of,un system
+investigations division,received,emails
+emails,sent to,persons external to the organization
+wrongdoings,committed at,economic commission for africa
+staff member,was a,author of the emails
+investigation,was conducted,revelation
+staff member,sent emails to,his excellency ambassador john negroponte
+ambassador john negroponte,of,us mission to the un
+president,and,vicepresident of the united states of america
+senator john kerry,and,senator dodd
+senator dodd,of,united states senate
+staff members,exercise,utmost discretion
+staff members,communicate,any government entity
+staff members,communicate,any other source
+staff members,know,information
+information,known to,them
+information,ought to have known by,them
+information,has not been made public,N/A
+obligations,do not cease upon,separation from service
+methodology,entails,obtaining and analyzing relevant documents
+staff members,were interviewed,N/A
+staff member,worked in,eca
+staff member,worked at,p5 level
+staff member,retired at,the end of November 2003
+staff member,worked for,the organization
+staff member,worked for,over 25 years
+hiwot abebe,sent email to,president of the united states of america
+hiwot abebe,sent email to,vicepresident of the united states of america
+hiwot abebe,sent email to,senator john kerry
+hiwot abebe,sent email to,senator dodd
+hiwot abebe,sent email to,executive secretary of eca
+email,had attachment,document titled crimes of rape and maladministration
+document titled crimes of rape and maladministration,was copied to,secretarygeneral ethiopian foreign ministry
+document titled crimes of rape and maladministration,was copied to,senior officials in the un system
+senior officials of eca,perpetrated,sexual harassment and rape
+senior officials of eca,perpetrated,crimes of rape and maladministration
+acgd officer,told,idoios
+official 2,asked,acgd officer
+acgd officer,paid,participants of the seychelles conference
+eca,wrote to,undp mauritius
+undp mauritius,asked,undp hq
+undp hq,requested,authority to transfer funds
+undp hq,transferred funds to,barclays in seychelles
+acgd officer,cashed,funds
+acgd officer,disbursed,dsa to participants
+acgd officer,paid,first group of participants
+first group of participants,was present with,undp officer
+acgd officer,indicated,payment to participants
+barclays,paid,other participants
+other participants,used,attendance list
+bank tellers,had,participant sign name
+bank tellers,paid,dsa
+acgd officer,was present when,bank tellers paid remaining participants
+attendance list,was returned to,acgd officer
+acgd officer,explained,discrepancies
+bank employee,might have tampered with,dsa list
+bank employee,forged,signatures of participants
+bank employee,pocketed,dsa
+acgd officer,dealt with,manager
+acgd officer,dealt with,teller
+acgd officer,dealt with,gobetween person
+gobetween person,could have falsely signed,dsa list
+acgd officer,witnessed,payments being made by bank staff
+acgd officer,had not raised,questions or concerns
+idoios investigators,questioned,acgd officer
+acgd officer,claimed to be surprised by,discrepancies
+acgd officer,acknowledged,received memoranda from official 4
+official 4,asked,acgd officer to account for moneys
+acgd officer,thought that the matter had been settled,unaccounted discrepancies
+unep staff member 2,received appointment with,pcau
+unep staff member 2,began work for,btf
+unep staff member 1,received contracts with,unep
+unep staff member 2,received contracts with,unep
+unep management,advised,idoios
+unep staff member 1,performed well,unep management
+unep staff member 2,performed well,unep management
+unep staff member 1,did not have,requisite educational background
+unep staff member 2,had little,environmental expertise
+unep staff member 2,consultancy with,btf
+investigations division of the office of internal oversight services,received,report of alleged wrongdoing
+report of alleged wrongdoing,involved in,balkans task force
+report of alleged wrongdoing,involved in,postconflict assessment unit
+balkans task force,part of,united nations environment programme
+postconflict assessment unit,part of,united nations environment programme
+united nations environment programme,has,two staff members
+united nations environment programme,has,consultant
+unep staff member 1,worked with,unep staff member 2
+unep staff member 1,worked with,uneppcau consultant
+unep staff member 2,worked with,uneppcau consultant
+unep staff member 1,created,conflict of interest
+unep staff member 1,demanded,kickback
+kickback,of,fifty percent of consultancy fees
+consultancy fees,paid to,experts
+consultancy fees,shared with,unep staff member 2
+consultancy fees,shared with,uneppcau consultant
+unep staff member 2,did not have a financial relationship with,uneppcau consultant
+btf,had a series of contracts with,former company
+btf,had extensions of those contracts with,former company
+unep staff member 1,was a shareholder and senior officer of,former company
+unep staff member 1,worked for,btf
+unep staff member 1,held a consultancy contract with,unep
+former company,had no contractual relationship with,unep
+former company,created the appearance of a conflict of interest with,unep
+idoios,learned,the former company
+the former company,received,contracts
+the former company,received,extensions of contracts
+the former company,with,btf
+btf,through,unops
+unops,without,competitive bidding
+competitive bidding,in violation of,financial regulation 12
+financial regulation 12,states that,procurement functions
+procurement functions,include,actions necessary for acquisition
+actions necessary for acquisition,by,purchase or lease of property
+actions necessary for acquisition,including,products
+actions necessary for acquisition,including,real property
+actions necessary for acquisition,including,services
+services,including,works
+general principles,shall be given,due consideration
+general principles,when exercising,procurement functions
+procurement functions,of,the united nations
+idoios,finds,unep
+idoios,finds,unops
+unep,departed from,united nations rules and regulations
+unops,departed from,united nations rules and regulations
+irregularities,seem not to have been carried out in,bad faith
+urgency of the situation,necessitated,btf
+btf,become,operational
+both organisations,should have taken,measures
+measures,to rectify,the problems identified in the allegations
+Pristina Airport,was entrusted to,Civil Administration Pillar II of UNMIK
+Civil Administration Pillar II of UNMIK,included,Official 1
+Civil Administration Pillar II of UNMIK,included,Official 2
+Official 1,supervised,Department of Transport and Infrastructure (DoTI)
+DoTI,was later known as,Transport Sector of the UNMIK Directorate of Infrastructure Affairs
+Official 1,left,UNMIK
+Official 2,was recruited by,DoTI
+Official 2,was in charge of,Airport Operations
+Official 2,reported to,Official 1
+Official 2,continued in this role until,30-Sep-01
+Engineering expertise,was provided by,Engineers seconded from the Armed Forces of a United Nations Member State
+Engineers,included,Airport Engineer I
+Engineers,included,Airport Engineer II
+Engineers,included,Airport Engineer III
+Consultant,was from,Consulting Firm
+Responsibility for the administration of the airport,passed from,Pillar II
+Responsibility for the administration of the airport,passed to,Kosovo Trust Agency (KTA)
+Pillar IV,was involved with,KTA
+Divisional Manager,was appointed at,Airport Sector KTA
+Divisional Manager,had under him,PEAP Official
+Divisional Manager,had under him,Air Traffic Control Services (ATCS) Official
+Pristina International Airport,was handed over to,Civilian Jurisdiction
+Civilian Jurisdiction,was under,ICAO Regulations
+itf,interviews with,airport personnel
+icaa,required to follow,unmik procurement protocols
+kta internal audit department staff member,confirmed,no breaches of kta rules
+kta rules,related to,unmik procurement rules
+unmik procurement rules,related to,agreement
+icaa,purchase of,new policy
+itf,concludes that,unmik procurement rules
+unmik,agreement with,icaa
+icaa,for,government of iceland
+itf,report that,comprehensive policy documents
+icaa,provided,comprehensive policy documents
+previous insurance policy,has been,cancelled
+ITF,received information alleging,unmik procurement procedures
+unmik,obtained insurance,insurance no 0216104
+unmik,assistance from,Icelandic Civil Aviation Administration
+unmik,agreement with,ICAA
+ICAA,specified procedures for,unmik
+unmik,provide evidence to,Iceland
+ICAA,will provide assistance in,acquiring liability insurance
+ICAA,will use results from,similar activities for acquiring liability insurance
+activities,performed in,Iceland
+investigation task force,has been investigating,allegation regarding administrative irregularities
+insurance coverage,for,pristina airport
+londonbased company,purchased,insurance company 1
+insurance company 1,provided,insurance coverage
+unmik pillar ii,provided documentation to,kosovo trust agency
+kosovo trust agency,provided documentation to,public enterprise airport pristina
+itf,determined,responsible manager
+responsible manager,did not undertake efforts,international tenders
+international tenders,for,airports insurance coverage
+manager,did not prepare,international tender
+manager,concluded,contract in favour of insurance company 1
+contract,effected,insurance coverage pertaining to pristina international airport
+conduct,demonstrates,probable cause
+issue,should be determined by,department of justice
+vendor 1,sent,letter of complaint
+vendor 1,competed for,tender
+tender,awarded to,vendor 1
+vendor 1,alleged existence of,rumours
+vendor 1,alleged existence of,witnesses
+procurement officer 1,bribed by,vendor 2
+finance officer,bribed by,vendor 2
+vendor 1 manager,intended to seek,legal action
+legal action,against,procurement officer 1
+procurement officer 1,violated,procurement rules
+procurement officer 1,replaced,member of bid evaluation committee
+finance officer,allowed to sit on,bid evaluation committee
+finance officer,favoured,vendor 2
+vendor 1 manager,competed against,vendor 2
+procurement officer 1,managed,competitive tender
+procurement officer 1,convened,bid opening committee
+bid opening committee,comprised,members of the various airport work groups
+bid opening committee,comprised,representatives of the three bidding companies
+vendor 1,submitted,bids
+vendor 2,submitted,bids
+vendor 3,submitted,bids
+procurement officer 1,chaired,bid opening committee
+procurement officer 1,formed,bid evaluation committee
+bid evaluation committee,assessed,offerings of the competitors
+offerings of the competitors,comprised,a range of uniforms and accessories
+bid evaluation committee,decided,vendor 2
+vendor 2,was,median bidder
+vendor 1,was,highest bidder
+committee,resolved,vendor 2
+vendor 2,would be approached to determine,feasibility of nocost design changes
+committee,reconvened,request of pristina airport official
+pristina airport official,announced,cancellation of the tender
+pristina airport official,awarded,singlesource procurement contract
+singlesource procurement contract,for,summer uniforms
+summer uniforms,for,newly hired staff
+singlesource procurement contract,in the amount of,106059
+vendor 1,had supplied,uniforms to the airport
+vendor 1,under,two previous contracts
+procurement officer 1,replaced,committee member 2
+committee member 1,had not been at work on,the day that the committee first convened
+committee member 1,confirmed,procurement officer 1's explanation
+committee member 2,attended,the second session
+procurement officer 1,included,finance officer
+finance officer,participated on,the bid evaluation committee
+procurement officer 1,nominated,finance officer
+pristina airport official,nominated,finance officer
+kta legal staff,advised,the itf
+kta legal staff,questioned,the wisdom of allowing a representative of the finance department to participate in bid evaluations
+section 2392 of finance administration instruction no 21999,precludes,an approving officer from serving as a tender evaluator
+finance officer,was not,an approving officer
+finance officer,was not prevented from serving as,an evaluator
+procurement officer 1,accepted bribes from,vendor 2
+procurement officer 1,accepted bribes from,vendor 1
+finance officer,accepted bribes from,vendor 2
+finance officer,accepted bribes from,vendor 1
+vendor 1 manager,heard rumours in,pristina coffee bars
+vendor 1 manager,referred to,witnesses
+vendor 2 employee,attended,meeting of the bid opening committee
+vendor 2 manager,told,itf
+vendor 2 director,told,itf
+procurement officer 1,denied accepting,bribes
+finance officer,denied accepting,bribes
+Pristina Airport,was entrusted to,Civil Administration Pillar II of UNMIK
+Civil Administration Pillar II of UNMIK,included,Official 1
+Civil Administration Pillar II of UNMIK,included,Official 2
+Civil Administration Pillar II of UNMIK,supervised,Department of Transport and Infrastructure (DoTI)
+Official 1,was known as,Transport Sector of the UNMIK Directorate of Infrastructure Affairs
+Official 1,left,UNMIK
+Official 2,was recruited by,DoTI
+Official 2,was in charge of,Airport Operations
+Official 2,reported to,Official 1
+Official 2,continued in this role until,30-Sep-01
+Engineering expertise,was provided by,a series of engineers
+Engineers,were seconded from,Armed Forces of a United Nations Member State
+Engineers,included,Airport Engineer 1
+Engineers,included,Airport Engineer 2
+Engineers,included,Airport Engineer 3
+Engineering expertise,was later provided by,Consultant from the Consulting Firm
+vendor 1,has,manufacturer
+vendor 1,is located in,Peja
+vendor 2,provided,incomplete offer
+procurement officer,is a member of,evaluation committee
+procurement officer,stated,vendor 2 submitted an offer
+offer,did not contain,required articles
+procurement officer,was asked,why explanation was not put in tender evaluation
+evaluation committee,signed,evaluation report
+evaluation committee,would have been aware of,reason for vendor 2's rejection
+Pristina Airport,was entrusted to,Civil Administration Pillar II of UNMIK
+Civil Administration Pillar II of UNMIK,includes,Official 1
+Civil Administration Pillar II of UNMIK,includes,Official 2
+Department of Transport and Infrastructure (DoTI),was involved in,Official 1
+DoTI,was later known as,Transport Sector of UNMIK Directorate of Infrastructure Affairs
+Official 1,left,UNMIK
+Official 2,was recruited by,DoTI
+Official 2,was in charge of,Airport Operations
+Official 2,reported to,Official 1
+Official 2,continued in this role until,30-Sep-01
+Engineering expertise,was provided by,Engineers seconded from UN member states army
+Engineers,included,Airport Engineer 1
+Engineers,included,Airport Engineer 2
+Engineers,included,Airport Engineer 3
+Engineering expertise,was later provided by,Consultant from the Consulting Company
+Pristina Airport,was entrusted to,Civil Administration Pillar II of UNMIK
+Civil Administration Pillar II of UNMIK,included,Official 1
+Civil Administration Pillar II of UNMIK,included,Official 2
+Department of Transport and Infrastructure (DoTI),was later known as,Transport Sector of UNMIK Directorate of Infrastructure Affairs
+DoTI Official 1,left,UNMIK
+DoTI Official 2,was recruited by,DoTI
+DoTI Official 2,was in charge of,Airport Operations
+DoTI Official 2,reported to,DoTI Official 1
+DoTI Official 2,continued in this role until,30-Sep-01
+Engineering expertise,was provided by,a series of engineers seconded from one UN member state's army
+Airport Engineer 1,was seconded from,one UN member state's army
+Airport Engineer 2,was seconded from,one UN member state's army
+Airport Engineer 3,was seconded from,one UN member state's army
+Consultant,was from,Consulting Company
+Responsibility for the administration of the airport,passed from,Pillar II
+Responsibility for the administration of the airport,passed to,Kosovo Trust Agency (KTA)
+Pillar IV,was under,Divisional Manager
+Divisional Manager,had under him/her,PEAP Official
+Divisional Manager,had under him/her,Official 3
+Pristina International Airport,was handed over to,Civilian Jurisdiction
+Civilian Jurisdiction,was under,ICAO Regulations
+uniforms,purchased,two further small quantities
+invoices,dated,4-Jul-03
+invoices,dated,5-Aug-03
+tshirts,ordered,two quantities of 99 and 66
+value,associated with,1188
+value,associated with,792
+peap official,stated,airport hired some students and temporary staff
+tshirts,for,students and temporary staff
+peap official,produced,two written requests
+written requests,from,security official
+written requests,dated,1-Jul-03
+written requests,dated,1-Aug-03
+peap official,stated,airport
+airport,ran out of,tshirts
+airport,purchased,same company
+same company,provides,same design of tshirt
+explanation,is not,credible one
+explanation,suggests,airport
+airport,did not have,idea
+idea,as to,numbers of temporary staff
+numbers of temporary staff,being taken on,three months
+case,indicates,poor management
+two orders,were placed to avoid,competitive bidding procedure
+limit,for,single source procurements
+single source procurements,was,1250
+vendor 3,won,tender for the provision of summer uniforms
+vendor 3,supplied,pristina airport
+security official,asked,divisional manager
+divisional manager,had conversation with,security official
+security official,addressed requests to,peap official
+peap official,is,superior of security official
+requests,mention,security official speaking to divisional manager
+requests,specify,shirts should be the same as previous shirts
+previous shirts,belong to,existing workers
+security official,requested,uniforms for student workers
+investigation,conducted pursuant to,executive decision no 200316
+investigation task force,conducted,enquiry
+itf investigators,conducted,interviews
+itf investigators,obtained,documents
+documents,from,pristina airport administration
+documents,from,pillar iv administration
+pristina international airport,constitutes,state owned enterprise
+pristina international airport,under,yugoslavian law
+assets of the airport,include,runways
+assets of the airport,include,terminal buildings
+assets of the airport,include,hangar
+assets of the airport,include,fuel storage facilities
+assets of the airport,include,equipment
+public enterprise airport pristina,maintained by,military units of the kosovo force
+military units of the kosovo force,pursuant to,united nations security council resolution 1244
+united nations security council resolution 1244,dated,10-Jun-99
+unmik regulation no 11999,dated,25-Jul-99
+unmik,mandated to administer,territory of kosovo
+unmik,includes,state owned and publicly owned assets
+unmik,includes,pristina international airport
+bid evaluation report,dated,6-Dec-02
+8 firms,were issued with,documents
+4 bids,were submitted,bids
+bids,were opened on,27-Nov-02
+vendor 3,offer,157060
+vendor 1,bid amount,80198
+vendor 2,bid amount,86850
+vendor 1,rejected,bid
+evaluation committee,asked,vendor 1
+vendor 1,failed to produce,specimen of each type of uniform
+letter,to,vendor 1
+letter,dated,27-Nov-02
+letter,delivered to,vendor 3
+investigation,conducted pursuant to,executive decision no 200316
+investigation task force,conducted,enquiry
+itf investigators,conducted,enquiry
+enquiry,into,allegations
+allegations,raised by,interviews
+interviews,with,persons indicated to be witnesses
+persons indicated to be witnesses,and,persons potentially implicated
+documents,obtained from,pristina airport administration
+documents,obtained from,pillar iv
+documents,analysed for relevance to,inquiry
+pristina international airport,constitutes,state owned enterprise
+pristina international airport,under,yugoslavian law
+assets of the airport,include,runways
+assets of the airport,include,terminal buildings
+assets of the airport,include,hanger
+assets of the airport,include,fuel storage facilities
+assets of the airport,include,equipment
+public enterprise airport pristina,maintained by,military units of the kosovo force
+military units of the kosovo force,pursuant to,united nations security council resolution 1244
+united nations security council resolution 1244,dated,10-Jun-99
+unmik regulation no 11999,dated,25-Jul-99
+unmik,mandated to administer,territory of kosovo
+unmik,includes,state owned and publicly owned assets
+state owned and publicly owned assets,includes,pristina international airport
+peap official,denied,vendor 2 representative
+vendor 2 representative,granted,itf
+itf,acted on,peap official's request
+peap official,bears,overall responsibility
+peap official,responsible for,hisher department peap
+investigation,proved,peap official did not fully meet requirements
+entire matter,has to be seen as,administrative irregularity
+international procurement rules,had been breached,none
+procurement regulation,was in force at that time,financial agreement 19992
+financial agreement 19992,does not indicate,cases like described before
+possible case of corruption,there are not enough indications,none
+official,supported,procurement process
+procurement process,for,flat information display system (FIDS)
+vendor 1,able to supply,FIDS
+vendor 1,not able to,cable the FIDS
+tender,launched for,FIDS cabling
+vendor 2,winner of,tender
+single source procurement,started on,17-Oct-02
+vendor 2 representative,provided,written recommendation and justification
+purchase of additional FIDS,became necessary because of,expansion of passenger terminal building
+existing system,provided by,vendor 1
+airport management,decided to choose,vendor 1
+capital expenditure approval,signed on,13-Dec-02
+procurement file,does not show,why vendor 1 only delivered FIDS
+need for cabling,resulted in,another tender
+tender,commenced in,Mar-04
+vendor 2,won,competitive shopping tender
+competitive shopping tender,amount,15919 euro
+airport engineer,interviewed on,11-Oct-04
+airport engineer,responsible for,airport management
+airport engineer,not involved in,fids purchase
+airport engineer,did not request,vendor 2 representative
+airport engineer,recommended,cabling of the fids
+airport engineer,noted to,airport management
+procurement unit,responsible for,following procedures
+sales manager of vendor 1,interviewed on,30-Aug-04
+sales manager of vendor 1,asked why,vendor 1 did not provide cabling
+vendor 1 management,did not allow,traveling to Kosovo
+sales manager of vendor 1,mentioned,airport's contact person
+airport's contact person,with regard to,fids cabling
+airport engineer,recommended,cabling of the fids
+Pristina Airport,alleged administrative irregularity regarding,X-ray tender
+Divisional Manager,approved and signed a contract between,Pristina Airport
+Divisional Manager,approved and signed a contract between,Vendor
+Pristina Airport,launched an international tender to supply,X-ray equipment
+Evaluation Committee,awarded the contract to,Vendor
+Vendor,is acknowledged as,world-class company
+Contract,was concluded between,Pristina Airport
+Contract,was concluded between,Vendor
+KTA Internal Auditor 1,expressed concerns over,conclusion of the contract
+KTA Official 1,signed the contract,Contract
+Capital Expenditure Approval,was signed by,KTA Official 2
+airport handling services department,calculated,charges
+charges,scrutinized against,published price list
+published price list,issued on,1-Jan-02
+load sheets,recorded,handling charge of 1074 euros
+handling charge of 1074 euros,found to be,correct
+landing charge of 67644,reduced by,50
+flight,identified as,humanitarian flight
+humanitarian flight,qualified for,discount
+official of the passenger handling services,told,itf investigators
+itf investigators,regarded,returning kosovars as refugees
+discount,considered,appropriate
+itf investigators,checked,matter with official of the airport general services
+official of the airport general services,confirmed,awareness of discount
+official of the airport general services,did not dispute,interpretation of the flight
+airline,avoids,charges
+charges,levied by,pristina airport
+charges,applied to,airline flights
+airline flights,are in accordance with,listed charges for services
+flight,is a matter for,airport pristina management
+airport pristina management,ensures compliance with,airport charges
+senior official,of,pristina airport
+senior official,was advised by,itf
+itf,provided information to,senior official
+charges,shown in,price list for basic airport services
+price list for basic airport services,correspond with,charges to the airline
+audit trail,shows,no discrepancies
+ITF,reviewed,conventional checkin procedures
+conventional checkin procedures,at,Pristina airport
+Pristina airport,confirmed,observations
+senior official,of,Pristina airport
+management letter,dated,May-04
+management letter,on,2003 financial audit
+auditing company,provided,management letter
+new system,will achieve,full integration
+passenger and baggage checkin and boarding,is connected to,load sheet
+load sheet,contains,relevant facts concerning the flight
+load sheet,includes,type and quantity of passengers
+report,is signed by,airport load control staff
+headcount,on board,aircraft
+aircraft staff,conducted,headcount
+pilot,signed,confirmed report
+confirmed report,is used as,basis for invoicing
+information,will be retrieved by,new system
+possible loss of revenue,of,departing passenger taxes
+departing passenger taxes,requires attention from,airport management
+ITF,reviewed,conventional check-in procedures
+conventional check-in procedures,at,Pristina airport
+Pristina airport,confirmed,observations
+senior official,of,Pristina airport
+senior official,in response to,management letter
+management letter,dated,May-04
+management letter,on,2003 financial audit
+auditing company,provided,advice
+advice,states,passenger fees observation
+entity,acquired,automatic checking system
+automatic checking system,provides,evidence of passengers arriving and departure
+PA,not integrated,automatic checking system
+establishment,of,integrated system
+integrated system,could provide,efficient monitoring controls
+integrated system,could provide,accurate evidence completeness
+integrated system,could provide,reconciliation of passenger recorded
+passenger recorded,by,automatic checking system
+passenger recorded,and,revenue from passenger fees
+revenue from passenger fees,in,financial statement
+investigators,asked,official of the passenger handling services pristina airport
+official of the passenger handling services pristina airport,described,airport tax obligations
+tax,is payable in respect of,departing passengers
+tax,is collected by,airlines
+airlines,use,checkin facilities
+checkin facilities,are part of,normal boarding procedures
+security guards,remained,airside
+uk immigration staff,remained,airside
+security guards,awaiting return to,uk
+security guards,had not technically entered,airport
+uk immigration staff,had not technically entered,airport
+security guards,are not liable for,airport taxes
+uk immigration staff,are not liable for,airport taxes
+official,said,no obligation for the payment of this tax
+carrier,did not use,regular checkin facilities
+passengers,did not use,regular checkin facilities
+passengers,departing with,airline
+passengers,met in,airport public lounge
+identities,checked against,list
+list,provided by,unmik civpol officer
+unmik civpol officer,in consultation with,immigration representative
+passengers,went through,conventional immigration
+passengers,went through,xray searches
+passengers,were escorted into,departure lounge
+passengers,boarding,airline aircraft
+passengers,did not pass through,regular checkin procedures
+itf investigators,reviewed,all paperwork relating to this flight
+official,provided,receipt book
+receipt book,used to evidence,cash payments
+cash payments,for,landing handling and airport passenger taxes
+other airlines,pay in,cash for handling services
+details,shown on,records provided by pristina airport officials
+records provided by pristina airport officials,were reconciled with,receipt book
+dates,confirmed,amounts and breakdown of charges
+pilot,is required to sign,receipt book
+itf,verified,recorded signature
+recorded signature,against,airline load sheets
+airline official 1,explained,airline
+airline,paid,pristina airport passenger handling services department
+airline official 1,endeavored to open,credit account with pristina airport
+itf,sought assistance of,security officer at pristina airport
+itf investigators,monitored,airlines inward and outward flights
+itf investigators,monitored,related airport activities
+kosovar passengers,went through,immigration procedures
+security escorts,remained,airside
+representative of the related immigration department,remained,airside
+security escorts,awaited instructions to return to,aircraft
+security escorts,did not enter,terminal building
+itf investigators,obtained,documents
+documents,from,pristina airport officials
+pristina airport officials,including,records of funds
+funds,received from,the airline
+funds,for the period,january to june 2004
+funds,broken down into,handling
+funds,broken down into,landing
+funds,broken down into,airport passenger
+funds,broken down into,departure tax
+schedule,lists,individual airport receipt number
+individual airport receipt number,recorded for,each cash payment
+airline,having paid,airport tax
+itf investigators,spoke to,official 1
+itf investigators,spoke to,official 2
+itf investigators,requested,copies of receipts
+receipts,issued by,pristina airport
+receipts,in respect of,fees paid by the airline
+airline,to,the airport
+documents,record,details
+documents,such as,weight of the aircraft
+aircraft,including,mtow maximum take off weight
+itf investigators,requested,aircraft load sheets
+aircraft load sheets,for,may and june 2004
+the airline,flies to,pristina airport
+the airline,flies from,a european airport
+the airline,carries,kosovar passengers
+the airline,is contracted with,the foreign states immigration department
+the foreign states immigration department,has,a representative
+the airline,escorts,the passengers
+the airline flight,carries,passengers from pristina
+the airline flight,consists of,the returning securicor escorts
+the airline flight,consists of,the representative of immigration
+the airline flight,consists of,a number of police officers
+the police officers,are working for,unmik civpol
+the civpol officers,travel to,the uk
+the civpol officers,travel without,payment
+the civpol officers,travel with,the knowledge and approval of the airline
+the civpol officers,travel with,the knowledge and approval of the uk immigration department
+itf investigators,visited,border boundary police
+itf investigators,interviewed,two current investigators
+two current investigators,recalled,the incident
+they,made,extensive enquiries
+they,attempted to trace,the police report
+they,attempted to locate,the 5200
+itf,sent,a letter to unmik police officer 2
+unmik police officer 2,indicated,regional crime squad pristina region
+regional crime squad pristina region,was undertaking,an investigation
+investigation,remains,an open investigation
+peap official,suggests,escavator
+escavator,is,company 1
+company 1,won,contract for the construction of the new car park
+new car park,at,pristina airport
+representative,attended,meeting in the peap officials office
+meeting,one day prior to,discovery of the money
+money,is,sum of 5200
+sum of 5200,is unusual since,one would expect the sum to have been a round sum such as 5000
+interoffice memorandum,from,former airport engineer
+former airport engineer,to,kta procurement specialist
+interoffice memorandum,dated,26-Sep-02
+interoffice memorandum,alleged,peap official
+peap official,had accepted,open envelope of documents
+open envelope of documents,relating to,car park tender
+car park tender,from,company 2
+submission of bids,had concluded,contrary to accepted procurement procedures
+allegation,is addressed in,itf case no 027404
+divisional manager,alleged,unidentified individual
+unidentified individual,left,envelope containing 5200
+envelope containing 5200,was left in,office of an official of public enterprise airport pristina peap
+group of approximately 8 persons,attended,meeting in his office
+meeting in his office,concerned,procurement contract for the building of a new car park at pristina international airport
+kta procurement specialist,was part of,group of approximately 8 persons
+company 1 representative,was part of,group of approximately 8 persons
+this case,concerns,allegation of attempted bribery and corruption
+allegation of attempted bribery and corruption,is cited in,article 344 of the provisional criminal code of kosovo
+applicable territorial laws,are related to,united nations procedural rules
+divisional manager,advised,itf
+divisional manager,provided,itf
+itf,had,incident
+incident,occurred,Oct-02
+divisional manager,thought,itf
+itf,could not locate,evidence of report
+itf,could not recall,members
+divisional manager,provided,copy of documents
+documents,passed to,unmik police officer
+unmik police officer,dated,11-Oct-02
+documents,consist of,letter from divisional manager
+letter from divisional manager,dated,11-Oct-02
+file note,dated,8-Oct-02
+file note,to,divisional manager
+file note,detailing,incident
+file note,annexing,list of serial numbers
+list of serial numbers,totalling,5200
+serial numbers,alleged to have been left in,peap official's diary
+peap official,in,his office
+kta procurement specialist,indicated,peap officials office
+kta procurement specialist,indicated,diary
+kta procurement specialist,heard about,incident
+kta procurement specialist,expressed opinion,incident
+incident,arranged to break up,contract with company 1
+itf,reviewed,letter from divisional manager
+letter from divisional manager,indicates,unmik police officer
+letter from divisional manager,records,sum of 5200
+sum of 5200,handed to,unmik police officer
+unmik police officer,told,itf
+unmik police officer,served in,kosovo
+unmik police officer,recalls,incident
+unmik police officer,was serving with,border police investigations unit
+border police investigations unit,assigned,enquiry to supervisor
+supervisor,was unable to be interviewed,mission
+kta procurement specialist,told,itf
+meeting,held in,peap officials office
+company 1,attended by,company 1 representative
+company 1,attended by,company 1 engineer
+purpose of the meeting,to hand,contract for the new car park
+contract for the new car park,to,company 1
+company 1 representative,to sign,contract for the new car park
+kta procurement specialist,indicated,three or four other persons
+two of whom,may be,two staff members of pristina airport
+kta procurement specialist,added,normal practice for the party winning the bid
+party winning the bid,to be invited to,sign the contract
+investigation,conducted pursuant to,executive decision no 200316
+executive decision no 200316,established,investigation task force
+itf investigators,conducted,enquiry
+enquiry,into,allegations
+allegations,raised by,interviews
+interviews,with,persons indicated to be witnesses
+interviews,with,persons potentially implicated
+documents,obtained from,pristina airport administration
+documents,obtained from,pillar iv
+pristina international airport,constitutes,state owned enterprise
+state owned enterprise,under,yugoslavian law
+assets,include,runways
+assets,include,terminal buildings
+assets,include,hanger
+assets,include,fuel storage facilities
+assets,include,equipment
+public enterprise airport pristina,maintained by,military units of the kosovo force
+military units of the kosovo force,pursuant to,united nations security council resolution 1244
+united nations security council resolution 1244,dated,10-Jun-99
+unmik regulation no 11999,dated,25-Jul-99
+unmik,mandated to administer,territory of kosovo
+unmik,includes,state owned and publicly owned assets
+state owned and publicly owned assets,includes,pristina international airport
+administration of the pristina airport,was entrusted to,civil administration pillar
+civil administration pillar,supervised,department of transport and infrastructure
+department of transport and infrastructure,was later known as,transport sector of the unmik directorate of infrastructure affairs
+doti official 1,left,unmik
+doti official 2,was recruited by,doti
+doti official 2,was in charge of,airport operations
+airport operations,reporting to,doti official 1
+doti official 2,continued in this role until,30-Sep-01
+engineering expertise,was provided by,series of engineers
+series of engineers,seconded from,member states armed forces
+responsibility for the administration of the airport,passed from,pillar ii
+responsibility for the administration of the airport,passed to,kosovo trust agency
+kosovo trust agency,and,pillar iv
+divisional manager,was appointed at,airport sector kta
+divisional manager,under,peap official
+divisional manager,under,air traffic control services
+pristina international airport,was handed over to,civilian jurisdiction
+civilian jurisdiction,under,icao regulations
+itf,referral,department of justice
+department of justice,issued,arrest warrants
+arrest warrants,against,official 1
+arrest warrants,against,official 2
+official 1,acting as,officials of airport pristina
+official 2,acting as,officials of airport pristina
+official 1,complicity with,official 2
+official 1,presented,representative of the company
+official 1,claimed,false statement of account
+official 2,claimed,false statement of account
+false statement of account,claimed,reduced storage fees
+authorized person,misled by,official 1
+authorized person,misled by,official 2
+official 1,committed,offence of fraud in service
+official 2,committed,offence of fraud in service
+offence of fraud in service,in violation of,article 215 1 and 2 of the kosovo criminal code
+offence of fraud in service,punishable by,imprisonment of one to ten years
+offence of fraud in service,equivalent to,fraud in office
+fraud in office,contrary to,article 341 1 and 2 of provisional kosovo criminal code
+official 1,complicity in violation of,article 22 of criminal code of sfry
+official 2,complicity in violation of,article 22 of criminal code of sfry
+co perpetration,in violation of,pcck article 23
+partner 1,paid,the company representative
+the company representative,went to,pristina airport
+the company representative,handed it to,official 1
+the handover of the cash,took place outside,the airport terminal gate
+the airport xray operator,observed,the meeting between the two men
+itf investigators,visited,the cargo department finance office
+itf investigators,checked,official documentation
+the company,should have paid,approximately 3200000
+the payment of the 8000,could not be found in,the cargo department account books
+the finance officer of the cargo section,provided,the tariff list
+itf investigators,met with,company representative
+company representative,explained,part of his business
+company,consists of,partner 1
+company,consists of,partner 2
+company,consists of,partner 3
+company,consists of,partner 4
+partner 2,was to pay,total price of all the goods
+partner 3,was to pay,total price of all the goods
+partner 1,was to pay,everything regarding vat custom duties local taxes and storage
+official 2,was responsible for,ensuring that storage fees were paid
+official 2,was responsible for,keeping a record of the payments
+airway bill,should have been provided to,finance officer
+finance officer,calculates,storage fees owed
+individuals or companies,were allowed to retrieve,their goods
+fee,had to be paid pursuant to,official invoice
+absence of such a record,is,highly unusual
+absence of such a record,establishes,monies owed to the airport were not received
+official 1,worked in,cargo handling office at the airport
+official 1,ensured that,all payments made by customers complied with regulations
+official 2,worked in,cargo handling office at the airport
+special representative of the secretarygeneral,given authority by,united nations security council resolution 1244 1999
+united nations security council resolution 1244 1999,issued on,10-Jun-99
+united nations interim administration mission in kosovo,related to,unmik regulation no 19991
+unmik regulation no 19991,issued on,25-Jul-99
+interim administration in kosovo,defined by,the law applicable in kosovo
+srsg,promulgated,the law applicable in kosovo
+the law applicable in kosovo,includes,regulations promulgated by the special representative of the secretarygeneral
+the law applicable in kosovo,includes,subsidiary instruments issued thereunder
+the law in force in kosovo,was on,22-Mar-89
+itf investigators,considered breaches of,provisional criminal code of kosovo
+provisional criminal code of kosovo,includes,article 339
+article 339,concerns,abusing official position of authority
+provisional criminal code of kosovo,includes,article 340
+article 340,concerns,misappropriation in office
+provisional criminal code of kosovo,includes,article 341
+article 341,concerns,fraud in office
+investigation task force,conducted,investigation
+investigation,surrounds,unmik bank account
+unmik bank account,opened at,bank in pristina
+investigation,triggered by,forensic audit report
+forensic audit report,of,public enterprise airport pristina
+public enterprise airport pristina,released by,chartered accountants
+activities of the pristina airport,fall under the control of,kosovo trust agency
+activities of the pristina airport,fall under the control of,unmik pillar iv
+unmik pillar iv,administered by,european union
+investigations,into,allegations of fraud and corruption
+allegations of fraud and corruption,involving,unmik
+unmik,involves,its pillars
+unmik,involves,other organisational structures
+unmik,involves,provisional institutions of selfgovernment
+provisional institutions of selfgovernment,are,pisg
+independent bodies and offices,established pursuant to,constitutional framework for provisional selfgovernment
+constitutional framework for provisional selfgovernment,in,kosovo
+investigation task force,falls within the purview of,itf
+itf,laid out by,executive decision on the establishment of the investigation task force
+executive decision on the establishment of the investigation task force,dated,21-Oct-03
+dcdm audit report 20023,highlighted,possible problem with unmik bank account
+unmik bank account,termed,company account
+company account,alleged,only one signatory
+only one signatory,is,staff member 1
+interest from this account,was going to,unidentified private account
+itf investigators,established,contract relating to supply of aviation fuel
+unmik,signed,contract
+company,signed,contract
+contract,relates to,supply of aviation fuel
+contract,relates to,refueling of commercial civilian aircraft
+contract,was amended,3-Mar-04
+company,commenced supplying,aviation fuel
+company,commenced supplying,refueling services to military and noncommercial aircraft
+contract,includes,military and noncommercial aircraft
+senior official 1 unmil,allegations of conflict of interest and abuse of authority,united nations mission in liberia srsg unmil
+investigations division of the office of internal oversight services idoios,received information,senior official for the united nations mission in liberia srsg unmil
+senior official for the united nations mission in liberia srsg unmil,was involved in business dealings with,businessman operating in liberia
+senior official for the united nations mission in liberia srsg unmil,abused his authority,unmil
+idoios investigation,found no evidence,senior official was involved in business dealings with the businessman
+idoios investigation,found no evidence,he had abused his authority to the benefit of either himself or of the businessman
+unmil,established on,19-Sep-03
+unmil,established by,security council resolution 1509
+officer 1,responsible for establishing,unmil fuel cell
+officer 1,served with,mission des nations unies au république démocratique de congo monuc
+unmil fuel cell,consisted of,officer 1
+unmil fuel cell,consisted of,20 other staff members
+20 other staff members,included,four international staff
+20 other staff members,included,remainder national staff
+officer 1,left,unmil
+officer 1,left,the united nations
+officer 1,left on,30-Jun-04
+officer 2,took over,the post
+officer 2,took over on,8-Jul-04
+audit of fuel management,conducted by,iad1oios
+audit of fuel management,reference,ap200462605
+investigations division of the office of internal oversight services,received,request from unon official 1
+unon official 1,inquire into,allegations
+unon official 1,submitted,report to unon management
+unon management,concerned about,fraudulent scheme
+locally recruited united nations office at nairobi,engaged in,improper conduct
+locally recruited united nations office at nairobi,submitted,fraudulent letters of appointments
+fraudulent letters of appointments,showing,longer contract duration dates
+fraudulent letters of appointments,to obtain,loans from the united nations cooperative savings and credit society limited
+united nations cooperative savings and credit society limited,operates within,unon premises
+unon official 2,submitted,report to unon management
+locally recruited staff members from the nairobi-based united nations children's fund somalia support centre,obtained,unsacco loans
+unsacco loans,by submitting,fraudulent letters of appointments
+unon management,worried about,fraudulent scheme spreading to unon
+unon management,worried about,fraudulent scheme spreading to other nairobi based united nations agencies
+request,prompted by,report
+report,submitted to,unon management
+unon official 2,submitted to,unon management
+staff members,recruited from,unicefsomalia support centre
+unicefsomalia,obtained,unsacco loans
+staff members,submitted,fraudulent letters of appointments
+fraudulent letters of appointments,to,unsacco
+unon management,concerned about,fraudulent scheme
+fraudulent scheme,might have spread to,unon
+fraudulent scheme,might have spread to,other united nations agencies
+idoios investigators,were on mission to,nairobi
+idoios investigators,directed by,idoios management
+idoios management,directed,idoios investigators
+idoios investigators,look into,this matter
+report,presents,findings of the preliminary idoios investigation
+report,together with,recommendations for appropriate action
+recommendations,for,unon management
+idoios,could not interview,unicef staff
+idoios,could not interview,former staff
+one staff member,passed away,
+another,declined,the interview
+unicef inquiry,was not final,
+information,obtained through,interviews of unicef staff
+unicef staff,suggested,more unicef staff involved
+unicef staff,confirmed,misused unicef letterhead
+unicef staff,indicated,forged the signature of a unicef operations officer
+unicef staff,provided,unsacco with incorrect information
+unicef staff,mentioned,ease with which they accessed official unicef stamps
+unicef staff,mentioned,ease with which they accessed stationeries
+unicef staff,mentioned,ease with which they accessed computers
+drivers,should not have occurred,access
+most interviewees,stated,they acted alone
+all interviewees,denied,unicef colleagues assisted them
+all interviewees,denied,unon colleagues assisted them
+unicef colleagues,had been,aware of fraudulent activities
+unicef colleagues,had been,involved in improper actions
+idoios investigators,noted,apparent irregularities
+idoios officers,made copies of,those documents
+idoios officers,compared,corresponding documentation
+idoios officers,confirmed with,unon officials
+unon officials,signed,those letters
+senior unep manager,informed,unsacco management
+senior unep manager,admitted,she had written a letter
+staff member,requested,the letter
+letters,provided to,unsacco
+locally recruited staff,can obtain,loans
+idoios,cautions,managers
+issuance of letters,may give,impression
+staff member,contract will be,renewed
+unsacco,interviews with,idonios investigators
+unon staff members,interviewed by,idonios investigators
+unon staff members,provided information about,operations
+unon staff members,cooperated with,idonios inquiry
+unon staff members,provided access to,files
+documentation,obtained from,unsacco
+staff members,requested and obtained,unsacco loans
+unon staff,are,staff members
+idoios investigators,decided to do,thorough review
+files,were selected for review where,loan amount was high
+files,were selected for review where,duration of the contract long
+files,were selected for review where,applicant was also a guarantor
+administrative officer,requested,copy of the appointment letter
+appointment letter,was,fraudulent
+expiration of the contract,was,FALSE
+signature,was,forged
+unicef operations officer,named in,the letter
+unsacco managers,inquired,unicefsomalia management
+unicefsomalia management,started,an inquiry
+unicefsomalia staff members,had obtained,improper loans
+unicefsomalia,has,approximately 20 staff members
+results of this inquiry,were described in,a report
+report,was on,the preliminary investigation
+case,was of,fraudulent signatures
+case,was of,use of office stationary
+case,was of,official seal
+unicef somalia nairobi,dated,11-Feb-05
+report,included,copies of the false letters of appointment
+report,included,written statements of several locally recruited unicef staff
+locally recruited unicef staff,admitted,improper conduct
+staff member,required to complete,loan application
+staff member,required to complete,loan agreement form
+staff member,required to complete,instant loan facility application
+staff member,required to attach,latest payslip
+staff member,required to attach,national identification card
+staff member,required to attach,passport
+staff member,required to attach,letter of contract
+letter of contract,required to ensure,valid contract
+valid contract,covers,agreed period of time
+longer contract,permits,repayment in lesser amounts
+applicant,must provide,guarantors
+guarantors,must be,un sacco members
+applications for loans,are reviewed by,unsacco staff
+applications for loans,are reviewed by,credit committee
+credit committee,approve,application
+credit committee,defer,application
+credit committee,reject,application
+idoios,recommends,unon
+unon,takes action against,unonits staff member id rec no iv0357501
+unon,takes corrective measures,unonits staff member refund the money she collected from unpos id rec no iv0357502
+unon,instructs,unpos administration
+unon,issues advice to,staff
+unon,issues advice to,unonbased agencies
+unon administration,shares findings with,representative of the secretary general unpos
+ununits staff member,intended to use,expensive equipment
+expensive equipment,from,unun workshop
+ununits staff member,did not receive permission from,hisher supervisor
+ununits staff member,arrangement with,unpos
+unun official,learned of,these arrangements
+unun official,told,ununits staff member
+equipment,could not be used by,unpos
+request for extension of the satellite link,must go through,proper channels
+unpos,did not receive,extension of its satellite link
+ununits staff member,did not return,money paid to himher
+ununits staff member,undertook to extend,satellite link to the rsg residence
+ununits staff member,received,money for said undertaking
+ununits staff member,failed to provide,satellite link
+ununits staff member,refused to return,money paid to himher
+ununits staff member,acted contrary to,obligations under staff regulation 12
+ununits staff member,acted contrary to,obligations under financial regulations and rules of the united nations
+financial regulations and rules of the united nations,are defined by,stsgb20037 regulation 512
+investigation,conducted pursuant to,executive decision no 200316
+executive decision no 200316,established,investigation task force
+itf investigators,conducted,enquiry
+enquiry,into,allegations
+allegations,raised by,interviews
+interviews,with,persons indicated to be witnesses
+interviews,with,persons potentially implicated
+documents,obtained from,pristina airport administration
+documents,obtained from,pillar iv
+pristina international airport,constitutes,state owned enterprise
+state owned enterprise,under,yugoslavian law
+assets of the airport,include,runways
+assets of the airport,include,terminal buildings
+assets of the airport,include,hanger
+assets of the airport,include,fuel storage facilities
+assets of the airport,include,equipment
+public enterprise airport pristina,maintained by,military units of the kosovo force
+military units of the kosovo force,pursuant to,united nations security council resolution 1244
+united nations security council resolution 1244,dated,10-Jun-99
+unmik regulation no 11999,dated,25-Jul-99
+unmik,mandated to administer,territory of kosovo
+unmik,includes,state owned and publicly owned assets
+responsibility for the administration of the pristina airport,entrusted to,civil administration pillar
+civil administration pillar,supervised,department of transport and infrastructure
+department of transport and infrastructure,was known as,transport sector of the unmik directorate of infrastructure affairs
+doti official 1,left,unmik
+doti official 2,was recruited by,doti
+doti official 2,was in charge of,airport operations
+airport operations,reporting to,doti official 1
+doti official 2,continued in this role until,30-Sep-01
+engineering expertise,was provided by,engineers seconded from the armed forces
+engineers,specifically,airport engineer 1
+engineers,specifically,airport engineer 2
+engineers,specifically,airport engineer 3
+responsibility for the administration of the airport,passed from,pillar ii
+responsibility for the administration of the airport,passed to,kosovo trust agency
+kosovo trust agency,and,pillar iv
+divisional manager,was appointed to,airport sector kta
+divisional manager,had under him,peap official
+divisional manager,had under him,air traffic control services
+air traffic control services,official,atcs official 1
+pristina international airport,was handed over to,civilian jurisdiction
+civilian jurisdiction,under,icao regulations
+dpko communications and technology services division,sought to obtain,new systems contract for laptop computers
+mr cabrera,was,procurement officer
+procurement department,assigned to,this matter
+chief of cits,communicated his request to,pd
+pd,issued,expression of interest
+pd,transmitted,invitation to bid
+invitation to bid,was sent to,36 vendors
+36 vendors,are from,nine countries
+cits,advised,pd
+cits,desired,ibm
+cits,desired,dell
+cits,desired,compaq
+itsd,recommended adding,toshiba
+itsd,recommended adding,sony
+itsd,recommended adding,fujitsu
+itsd,recommended adding,nec
+cits,continued to assert,three major brands of computers
+cits,sought only,three major brands of computers
+cits,agreed,expanding the field
+mr cabrera,issued,bid amendment notification
+bid amendment notification,corrected,anticipated quantity of the computers sought
+bid amendment notification,clarified,only compaq dell ibm toshiba sony fujitsu and nec brands
+audit report,dated,26-Jan-06
+audit report,raised,matters
+mr walter cabrera,is,procurement officer
+procurement officer,works at,headquarters procurement section
+procurement task force,concerning,united nations staff member walter cabrera
+procurement task force,was created on,january 12 2006
+procurement task force,address,procurement matters
+procurement matters,referred to,office of internal oversight services oios
+creation of the task force,was the result of,perceived problems in procurement
+perceived problems in procurement,identified by,independent inquiry committee into the oil for food programme iic
+un procurement officer,is,alexander yakovlev
+alexander yakovlev,was,arrested and convicted
+task force,operates as part of,oios
+task force,reports directly to,under secretary general of oios
+task force,investigates,open and pending procurement cases
+task force,includes,review in some procurement matters
+task force,investigations have focused upon,individuals and vendors
+individuals and vendors,doing business with,un
+task force,has referred,more than 200 matters
+more than 200 matters,involving,numerous procurement cases
+numerous procurement cases,in,various un missions
+numerous procurement cases,in,un headquarters
+task force,will report on,matters individually
+task force,has given priority to,matters involving eight staff members
+eight staff members,placed on,special leave with pay
+walter cabrera,is,united nations procurement officer
+walter cabrera,provided notification to,thunderbird llc
+thunderbird llc,was granted approval for,contract to provide manpower support
+walter cabrera,engaged in misconduct in connection with,procurement exercises
+procurement exercises,resulted in contracts awarded to,telecommunications consultants of india
+audit report,found,significant fraud indicators
+task force,agrees with,audit report
+task force,will report on,issues
+report,is focused on,conduct of mr cabrera
+mr cabrera,acted improperly in,participation in these matters
+mr bahel,involvement,thunderbird
+thunderbird,received,advanced notice
+mr bahel,associated with,request for expedited approval
+expedited approval,needed for,thunderbird
+hcc secretary,is,mr bahel
+hcc meeting,granted,iecs
+iecs,received,extension
+thunderbird,failed to submit,audited financial statements
+thunderbird,was given,additional four weeks
+mr bahel,effort to notify,thunderbird
+thunderbird,application was,not yet complete
+hcc meeting,pending,minutes
+hcc,issued,one page form
+one page form,granted,expedited approval
+expedited approval,for,current contractor
+expedited approval,for,replacement thunderbird
+task force,investigation,circumstances surrounding the creation of this form
+task force,has,no evidence
+mr cabrera,participated in,this aspect of the matter
+Mr. Bahel,scheduled to leave,New York
+Mr. Bahel,convened a meeting with,Ms. Jane Redfern
+Ms. Jane Redfern,is a,UN Procurement Officer
+Mr. Bahel,convened a meeting with,Mr. Walter Cabrera
+Mr. Bahel,instructed,Ms. Jane Redfern
+Mr. Bahel,instructed,Mr. Walter Cabrera
+Mr. Walter Cabrera,notified,Thunderbird
+Mr. Walter Cabrera,understood that he was not able to provide,Letter of Intent (LOI)
+Mr. Walter Cabrera,gave,verbal notification
+Mr. Walter Cabrera,notified,Mr. Nishan Kohli
+HCC,recommended that the contract be awarded to,Thunderbird
+Thunderbird,would likely receive,the contract
+Mr. Kohli,submitted written explanation to,the organization
+Mr. Kohli,through,his attorney
+Task Force,does not find,Mr. Kohli's representations credible
+Sanjaya Bahel,recommended,TCIL
+TCIL,awarded,systems contract
+systems contract,amount,US5340000
+HCC officials,questioned,basis for limiting the bidding exercise
+HCC,stated,imminent loss of funds
+HCC,would have recommended,rebidding exercise
+rebidding exercise,inviting,all brands of laptops
+DPKO officials,questioned,limitation of the resolicitation
+PD,violated,UN rules and regulations
+PD,used,brand names in ITB email communication
+proposed contract award,approved,TCIL
+proposed contract award,signed,TCIL
+mr cabrera,maintained a dialogue with,dpko
+mr cabrera,was involved in the decision,task force
+mr cabrera,sought to cancel,the bid
+sanjaya bahel,was involved in,the matter
+sanjaya bahel,communicated with,itsd officials
+sanjaya bahel,communicated with,dpko officials
+dpko official,had conversations with,mr bahel
+mr bahel,confirmed that,pd was of the view
+pd,had a view that,there was a technical issue with lacrestas bid
+there,should be,a new bidding exercise
+mr cabrera,is related to,the facts of this matter
+thunderbird llc,submitted an application,the organization
+thunderbird,is represented by,mr nishan kohli
+mr nishan kohli,is the managing partner of,thunderbird
+thunderbird,was registered by,pd
+thunderbird,submitted a proposal for,the supply of engineering manpower
+the supply of engineering manpower,is for,various un missions
+the procurement department,issued,the rfp
+mr sanjaya bahel,is the chief of,field procurement
+mr sanjaya bahel,made a presentation to,the headquarters committee on contracts
+the headquarters committee on contracts,is abbreviated as,hcc
+the matter,was assigned to,mr cabrera
+mr cabrera,was involved in,the case
+procurement department,concede,contract
+procurement department,not justify,la cresta
+la cresta,not informed,cancellation
+case officer,maintains responsibility,communicating cancellation
+procurement,notifying,vendor
+dpko official,informed,task force
+dpko official,conversations with,pd
+pd,expressed view,issue with lacresta's submission
+procurement department,suggested,rebid
+dpko official,objected,rebid
+pd,prerogative,cancel bid
+dpko,found,la cresta
+la cresta,compliant,bid
+la cresta,lowest bidder,bid
+mr cabrera,agrees,reasoning proffered by pd
+mr cabrera,takes issue with,claim participation
+european aeronautic defense and space corporation eads,efforts to win,tanker aircraft contract
+us military,contract with,tanker aircraft
+vimont,revealed,deal
+levitte,expected to put,labeling dispute
+pernod ricard,world's second largest spirits group,labeling dispute
+sarkozy,spoke to,company's chairman
+company's chairman,asked,president
+patrick ricard,is said to be,sarkozy's wealthy backers
+vimont,characterized,issue
+issue,is a very political matter in,us
+sarkozy,intends to broach,issue
+levitte,will talk to,us president's economic adviser
+levitte,will talk to,deputy national security adviser
+levitte,expected,two leaders to discuss
+two leaders,to discuss,other pressing subjects
+two leaders,to discuss,iran
+two leaders,to discuss,middle east peace process
+two leaders,to discuss,afghanistan
+two leaders,to discuss,pakistan
+two leaders,to discuss,yemen
+two leaders,to discuss,somalia
+two leaders,to discuss,sahel
+two leaders,to discuss,russia
+two leaders,to discuss,china
+two leaders,to discuss,turkey
+two leaders,to discuss,climate change
+two leaders,to discuss,financial situation of several european countries
+French President Sarkozy,intends to raise,sensitive topics
+French President Sarkozy,meets,US President
+French Ambassador Pierre Vimont,exchanges with,Sarkozy's diplomatic advisor Jean-David Levitte
+Pierre Vimont,conveyed that,French President will express frustration
+Washington,backed away from,proposed bilateral intelligence cooperation agreement
+Sarkozy,intends to push for,closure
+Vimont,understands,main sticking point
+US,desires to continue,spying on France
+Sarkozy,is ready to authorize,more military trainers
+Sarkozy,wants clarification on,how many military trainers are needed
+US sources,provide,conflicting figures
+us national security agency,report on,signals intelligence intercepts
+signals intelligence intercepts,highlights from,french government communications
+french ambassador in washington dc,communicates with,french president nicolas sarkozy
+french president nicolas sarkozy,has,diplomatic advisor jeandavid levitte
+jeandavid levitte,advises,french president nicolas sarkozy
+french president nicolas sarkozy,intends to raise topics with,us president barack obama
+us president barack obama,meets with,french president nicolas sarkozy
+french president nicolas sarkozy,expresses frustration about,bilateral intelligence cooperation agreement
+bilateral intelligence cooperation agreement,restricts,us ability to continue spying on france
+french commitment,involves,military trainers to afghanistan
+european aeronautic defence and space corporation,contracts with,us military
+french spirits company,is,pernod ricard
+pernod ricard,involved in,trademark dispute
+audit report,dated,28-Feb-03
+audit report,into,financial statements of Pristina International Airport
+chartered accountants,conducted,audit report
+audit report,led to,investigation
+investigation,concerning,alleged corruption and irregularities
+alleged corruption and irregularities,arising in,procurements and contracts at Pristina International Airport
+single source contract,added,one month after main contract
+main contract,for,supply of two new containers
+main contract,for,dismantling transport and reconstruction of a further seven containers
+investigation,conducted pursuant to,executive decision no 200316
+executive decision no 200316,on,establishment of the investigation task force
+ITF investigators,conducted,enquiry into allegations
+enquiry,by,interviews with persons indicated to be witnesses
+enquiry,by,persons potentially implicated in the allegations
+documents,obtained from,Pristina Airport administration
+documents,obtained from,Pillar IV
+documents,analysed for relevance to,inquiry at hand
+Pristina International Airport,constitutes,state owned enterprise
+Pristina International Airport,includes,runways
+Pristina International Airport,includes,terminal buildings
+Pristina International Airport,includes,hanger
+Pristina International Airport,includes,fuel storage facilities
+Pristina International Airport,includes,equipment
+Public Enterprise Airport Pristina (PEAP),maintained by,military units of the Kosovo Force (KFOR)
+United Nations Security Council Resolution 1244,dated,10-Jun-99
+UNMIK Regulation No 11999,dated,25-Jul-99
+UNMIK,mandated to administer,territory of Kosovo
+UNMIK,includes,Pristina International Airport
+Responsibility for the administration of the airport,passed from,Pillar II
+Responsibility for the administration of the airport,passed to,Kosovo Trust Agency (KTA)
+KTA Divisional Manager,was appointed to,airport sector KTA
+KTA Divisional Manager,was under,PEAP official
+KTA Divisional Manager,was under,Acts official
+Pristina International Airport,was handed over to,civilian jurisdiction
+Civilian jurisdiction,under,ICAO regulations
+Pristina International Airport,constitutes,state owned enterprise
+Pristina International Airport,includes,runways
+Pristina International Airport,includes,terminal buildings
+Pristina International Airport,includes,hanger
+Pristina International Airport,includes,fuel storage facilities
+Pristina International Airport,includes,equipment
+Public Enterprise Airport Pristina (PEAP),maintained by,military units of the Kosovo Force (KFOR)
+United Nations Security Council Resolution 1244,dated,10-Jun-99
+UNMIK Regulation No 11999,dated,25-Jul-99
+UNMIK,is mandated to administer,territory of Kosovo
+UNMIK,includes,state owned assets
+UNMIK,includes,publicly owned assets
+UNMIK,includes,Pristina International Airport
+jean david levitte,reveals frustration towards,iraq survey group
+iraq survey group,has finding,un oilforfood program
+un oilforfood program,was possibly misused by,french companies
+jean david levitte,states that it is scandalous that,no us companies
+jean david levitte,claimed that,many french companies
+many french companies,were actually subsidiaries of,us firms
+jean david levitte,planned to present,list of these companies
+list of these companies,to,us congress
+list of these companies,to,media
+tssi french envoy,plans to release,list of us firms
+us firms,allegedly profited from,off tssirel
+jean david levitte,plans to respond to,information in the iraq survey group report
+iraq survey group report,regarding possible misuse of,un oilforfood off program
+french companies,with contracts under,off program
+french companies,were actually subsidiaries of,us firms
+jean david levitte,planned with,foreign ministry backing
+foreign ministry backing,to present,list of these us companies
+list of these us companies,to,us congress
+list of these us companies,to,media
