@@ -129,6 +129,12 @@ git push origin feature-branch
 ```
 6. Open a pull request.
 
+# Contributors
+1. Singh Janhavee
+2. Risha Sunil Shetty
+3. Chavi Goyal
+4. Sia Batra
+
 
 
 
