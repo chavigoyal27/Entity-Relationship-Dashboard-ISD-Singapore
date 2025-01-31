@@ -29,7 +29,8 @@ Key Features:
 - Network Graphs: Interactive visualizations to explore relationships between people, organizations, and events.
 - AI-Generated Insights: Contextual, real-world insights based on AI algorithms and case studies.
 - CSV Upload Feature: Allows you to analyze your own datasets on-demand.
-Demonstration Video: "https://youtu.be/bUrParUFEVc"
+
+## Demonstration Video: "https://youtu.be/bUrParUFEVc"
 
 # Features
 
