@@ -79,7 +79,7 @@ To run Intellexis locally or deploy it in your own environment, follow the insta
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/intellexis.git
+git clone https://github.com/chavigoyal27/intellexis.git
 cd intellexis
 ```
 
@@ -132,9 +132,9 @@ git push origin feature-branch
 6. Open a pull request.
 
 # Contributors List
-1. Singh Janhavee
+1. Chavi Goyal
 2. Risha Sunil Shetty
-3. Chavi Goyal
+3. Singh Janhavee
 4. Sia Batra
 
 
